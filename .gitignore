@@ -1,9 +1,23 @@
+# Environment files
 .env
+.env.*
+.envrc
+.envrc.d/
+
+# Python
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
 
+# Local asset folders
 audio
 images
 videos
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
