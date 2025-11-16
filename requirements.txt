@@ -1,0 +1,10 @@
+openai
+python-dotenv
+requests
+pillow
+pyngrok
+moviepy
+librosa
+numpy
+soundfile
+ollama
