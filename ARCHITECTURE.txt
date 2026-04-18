@@ -1,0 +1,256 @@
+HEIM CONTENT MACHINE
+Current repository architecture
+
+========================================================================
+1. TOP-LEVEL EXECUTION FLOW
+========================================================================
+
+    main.py
+      |
+      +--> run_once()
+             |
+             +--> content_machine.run_machine()
+                    |
+                    +--> prompt_gen.generate_all()
+                    |      |
+                    |      +--> gen_theme() --------------+
+                    |      +--> gen_visual_concept()      |
+                    |      +--> gen_character_context()   |--> Ollama chat API
+                    |      +--> gen_caption() ------------+
+                    |
+                    +--> prompt_gen.generate_image_prompt()
+                    |
+                    +--> utils.santize.sanitize_filename()
+                    |
+                    +--> image_generator.openai_generate_image()
+                    |      |
+                    |      +--> OpenAI Images API
+                    |      +--> writes ./images/<timestamp>_<caption>.png
+                    |
+                    +--> utils.findmusic.find_music()
+                    |      |
+                    |      +--> selects random .wav from ./audio
+                    |
+                    +--> updateAudio.find_chorus_clip()
+                    |      |
+                    |      +--> librosa feature extraction
+                    |      +--> chorus scoring / clip selection
+                    |      +--> writes ./audio/reel_clip_edit_<track>.wav
+                    |
+                    +--> makeVideo.make_video_with_music()
+                    |      |
+                    |      +--> moviepy combines image + audio
+                    |      +--> writes ./videos/<timestamp>_<caption>.mp4
+                    |
+                    +--> insta_post.post_local_video_via_ngrok()
+                           |
+                           +--> local HTTP server
+                           +--> ngrok tunnel
+                           +--> Instagram Graph API publish flow
+
+
+========================================================================
+2. MODULE MAP
+========================================================================
+
+    [Scheduler / Entrypoint]
+    main.py
+      - Small launcher.
+      - Supports one-shot execution via run_once().
+      - Contains an optional run_loop() scheduler for repeated runs.
+
+    [Pipeline Orchestrator]
+    content_machine.py
+      - Central coordinator for the full content pipeline.
+      - Generates prompts, images, audio clips, video, and post upload.
+      - Reads MUSIC_DIRECTORY from environment.
+      - Owns output naming and directory creation for images/, audio/, videos/.
+
+    [Prompt / LLM Layer]
+    prompt_gen.py
+      - Defines the Greek-mythology meme prompt strategy.
+      - Builds a 4-step Ollama conversation:
+          1) Theme
+          2) Visual Concept
+          3) Character Context
+          4) Caption
+      - Converts those outputs into the final image prompt.
+      - create_prompt() is a standalone helper path used outside the main pipeline.
+
+    [Image Generation Layer]
+    image_generator.py
+      - Calls OpenAI image generation with model "gpt-image-1".
+      - Saves generated image bytes to disk.
+      - Includes image reformat helper for 1080x1920 output.
+      - Also exposes a standalone generate_image() path.
+
+    [Audio Analysis Layer]
+    updateAudio.py
+      - Loads full audio.
+      - Detects beats and bar alignment.
+      - Computes repetition, RMS, and spectral centroid.
+      - Scores candidate clip windows.
+      - Exports the selected 20s clip.
+
+    [Music Selection Utility]
+    utils/findmusic.py
+      - Picks a random .wav file from MUSIC_DIRECTORY / audio/.
+
+    [Video Assembly Layer]
+    makeVideo.py
+      - Uses moviepy to create a simple video from one image plus one audio file.
+
+    [Publishing Layer]
+    insta_post.py
+      - Creates temporary local file hosting with Python HTTP server.
+      - Exposes hosted media through ngrok.
+      - Creates and publishes Instagram media containers.
+      - Supports both image and video post flows.
+      - Main pipeline currently uses the video/reels path.
+
+    [Filename Utility]
+    utils/santize.py
+      - Sanitizes caption text for filesystem-safe filenames.
+
+    [Auxiliary / Not In Main Flow]
+    ollama_client.py
+      - Lightweight direct HTTP client for Ollama.
+      - Not used by main.py/content_machine.py right now.
+      - Exists as an alternate integration path to the Ollama Python package.
+
+
+========================================================================
+3. DATA / ARTIFACT FLOW
+========================================================================
+
+    Input sources
+      |
+      +--> .env
+      |      - OPENAI_API_KEY
+      |      - OPENAI_ORG_ID
+      |      - IG_USER_ID / ACCESS_TOKEN
+      |      - MUSIC_DIRECTORY
+      |      - NGROK_PATH
+      |      - OLLAMA_BASE_URL
+      |      - OLLAMA_MODEL
+      |
+      +--> ./audio/*.wav
+             - source music library
+
+    Intermediate and final artifacts
+      |
+      +--> generated prompt text
+      +--> ./images/<timestamp>_<caption>.png
+      +--> ./audio/reel_clip_edit_<track>.wav
+      +--> ./videos/<timestamp>_<caption>.mp4
+      +--> Instagram reel publish request
+
+
+========================================================================
+4. EXTERNAL DEPENDENCIES
+========================================================================
+
+    Ollama
+      - Used by prompt_gen.py through the ollama Python package.
+      - Responsible for theme / concept / caption generation.
+
+    OpenAI Images API
+      - Used by image_generator.py.
+      - Responsible for final image generation.
+
+    Librosa + NumPy + SoundFile
+      - Used by updateAudio.py.
+      - Responsible for audio analysis and clip export.
+
+    MoviePy
+      - Used by makeVideo.py.
+      - Responsible for video composition.
+
+    ngrok
+      - Used by insta_post.py.
+      - Makes local media publicly reachable for Instagram ingestion.
+
+    Instagram Graph API
+      - Used by insta_post.py.
+      - Responsible for media container creation, polling, and publish.
+
+
+========================================================================
+5. CURRENT DEPENDENCY GRAPH
+========================================================================
+
+    main.py
+      -> content_machine.py
+
+    content_machine.py
+      -> prompt_gen.py
+      -> image_generator.py
+      -> updateAudio.py
+      -> utils/findmusic.py
+      -> makeVideo.py
+      -> insta_post.py
+      -> utils/santize.py
+
+    image_generator.py
+      -> prompt_gen.py
+
+    prompt_gen.py
+      -> ollama package
+
+    insta_post.py
+      -> requests
+      -> pyngrok
+      -> built-in http.server / socketserver
+
+    updateAudio.py
+      -> librosa
+      -> numpy
+      -> soundfile
+
+    makeVideo.py
+      -> moviepy
+
+
+========================================================================
+6. ARCHITECTURAL CHARACTER
+========================================================================
+
+    Style
+      - Single-process, script-oriented pipeline.
+      - Orchestration is centralized in one module.
+      - Modules are function-based rather than class-based.
+
+    Strengths
+      - Clear linear workflow.
+      - Easy to run locally end-to-end.
+      - Media artifacts are stored explicitly on disk between steps.
+
+    Constraints
+      - Tight coupling between generation, rendering, and publishing.
+      - Heavy dependence on live external services.
+      - Limited separation between "generate asset" and "publish asset" concerns.
+      - Minimal state management beyond files and environment variables.
+
+
+========================================================================
+7. REPOSITORY SHAPE
+========================================================================
+
+    .
+    |-- main.py
+    |-- content_machine.py
+    |-- prompt_gen.py
+    |-- image_generator.py
+    |-- updateAudio.py
+    |-- makeVideo.py
+    |-- insta_post.py
+    |-- ollama_client.py
+    |-- requirements.txt
+    |-- env.sample
+    |-- utils/
+    |   |-- findmusic.py
+    |   `-- santize.py
+    |-- audio/
+    |-- images/
+    `-- videos/
+
