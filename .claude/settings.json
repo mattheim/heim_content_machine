@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(.env)",
+      "Read(./.env)",
+      "Read(/home/druzy/thea/heim/heim_content_machine/.env)",
+      "Write(.env)",
+      "Write(./.env)",
+      "Write(/home/druzy/thea/heim/heim_content_machine/.env)",
+      "Edit(.env)",
+      "Edit(./.env)",
+      "Edit(/home/druzy/thea/heim/heim_content_machine/.env)",
+      "Bash(cat .env)",
+      "Bash(cat ./.env)",
+      "Bash(head .env)",
+      "Bash(tail .env)",
+      "Bash(less .env)",
+      "Bash(more .env)",
+      "Bash(grep * .env)",
+      "Bash(rg * .env)"
+    ]
+  }
+}
