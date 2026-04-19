@@ -125,6 +125,9 @@ class ReusableThreadingTCPServer(socketserver.ThreadingMixIn, socketserver.TCPSe
 # Pull sensitive values from environment
 IG_USER_ID = (os.getenv("IG_USER_ID") or os.getenv("INSTAGRAM_BUSINESS_ACCOUNT_ID") or "").strip()
 ACCESS_TOKEN = (os.getenv("ACCESS_TOKEN") or os.getenv("IG_ACCESS_TOKEN") or "").strip()
+VIDEO_PUBLISH_DELAY_SECONDS = int(os.getenv("VIDEO_PUBLISH_DELAY_SECONDS", "15"))
+VIDEO_PUBLISH_RETRIES = int(os.getenv("VIDEO_PUBLISH_RETRIES", "3"))
+VIDEO_PUBLISH_RETRY_DELAY_SECONDS = int(os.getenv("VIDEO_PUBLISH_RETRY_DELAY_SECONDS", "10"))
 
 GRAPH_URL = "https://graph.facebook.com/v23.0"
 
@@ -152,6 +155,29 @@ def publish_media(media_id: str) -> str:
     if "id" not in resp:
         raise Exception(f"Error publishing media: {resp}")
     return resp["id"]
+
+def publish_media_with_retry(media_id: str) -> str:
+    """Publish media container with a short settle delay and retries for transient Meta failures."""
+    last_error = None
+
+    for attempt in range(1, VIDEO_PUBLISH_RETRIES + 1):
+        if attempt == 1 and VIDEO_PUBLISH_DELAY_SECONDS > 0:
+            print(f"Waiting {VIDEO_PUBLISH_DELAY_SECONDS}s before publishing video...")
+            time.sleep(VIDEO_PUBLISH_DELAY_SECONDS)
+        elif attempt > 1 and VIDEO_PUBLISH_RETRY_DELAY_SECONDS > 0:
+            print(
+                f"Retrying video publish in {VIDEO_PUBLISH_RETRY_DELAY_SECONDS}s "
+                f"(attempt {attempt}/{VIDEO_PUBLISH_RETRIES})..."
+            )
+            time.sleep(VIDEO_PUBLISH_RETRY_DELAY_SECONDS)
+
+        try:
+            return publish_media(media_id)
+        except Exception as exc:
+            last_error = exc
+            print(f"Video publish attempt {attempt} failed: {exc}")
+
+    raise last_error
 
 def create_video_media(video_url: str, caption: str) -> str:
     """Upload video to Instagram (create media container)."""
@@ -327,10 +353,11 @@ def post_local_video_via_ngrok(file_path, caption):
         print(f"Video media container created: {media_id}")
 
         # Step 6: Poll status until video is processed
-        check_media_status(media_id)
+        status_info = check_media_status(media_id)
+        print(f"Video processing complete: {status_info}")
 
         # Step 7: Publish video
-        publish_id = publish_media(media_id)
+        publish_id = publish_media_with_retry(media_id)
         print(f"Published successfully, IG Media ID: {publish_id}")
 
         info = get_post_info(publish_id)
