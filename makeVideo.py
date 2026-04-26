@@ -1,6 +1,9 @@
+import os
+import shutil
+import subprocess
+import tempfile
 import numpy as np
 from PIL import Image
-from moviepy import ImageClip, AudioFileClip
 
 REEL_SIZE = (1080, 1920)
 REEL_FPS = 30
@@ -25,30 +28,68 @@ def _build_reel_frame(image_path, canvas_size=REEL_SIZE):
         canvas.paste(image, (x, y))
         return np.array(canvas)
 
-def make_video_with_music(image_path, audio_path, output_path, duration=20):
-    # Build a reel-friendly 9:16 frame and keep it on screen for the full duration.
+def make_video_with_music(image_path, audio_path, output_path, duration=12):
+    ffmpeg_path = shutil.which("ffmpeg")
+    if not ffmpeg_path:
+        raise RuntimeError("ffmpeg is required to render reels but was not found on PATH.")
+
     image_frame = _build_reel_frame(image_path)
-    image = ImageClip(image_frame).with_duration(duration)
+    os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
 
-    # Load audio and clip to duration
-    audio = AudioFileClip(audio_path).subclipped(0, duration)
+    with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as temp_image:
+        temp_image_path = temp_image.name
 
-    # Set audio to video
-    video = image.with_audio(audio)
-
-    # Export with Instagram-safe defaults: 9:16, 30 FPS, yuv420p, faststart MP4.
-    video.write_videofile(
-        output_path,
-        codec="libx264",
-        audio_codec="aac",
-        fps=REEL_FPS,
-        audio_bitrate="128k",
-        ffmpeg_params=["-pix_fmt", "yuv420p", "-movflags", "+faststart"],
-    )
-
-    audio.close()
-    video.close()
-    image.close()
+    try:
+        Image.fromarray(image_frame).save(temp_image_path, format="PNG")
+        command = [
+            ffmpeg_path,
+            "-y",
+            "-loop",
+            "1",
+            "-framerate",
+            str(REEL_FPS),
+            "-i",
+            temp_image_path,
+            "-i",
+            audio_path,
+            "-t",
+            str(duration),
+            "-c:v",
+            "libx264",
+            "-preset",
+            "medium",
+            "-profile:v",
+            "main",
+            "-level",
+            "4.0",
+            "-pix_fmt",
+            "yuv420p",
+            "-r",
+            str(REEL_FPS),
+            "-vf",
+            "scale=1080:1920:flags=lanczos,format=yuv420p",
+            "-c:a",
+            "aac",
+            "-b:a",
+            "128k",
+            "-ar",
+            "44100",
+            "-ac",
+            "2",
+            "-movflags",
+            "+faststart",
+            "-shortest",
+            output_path,
+        ]
+        subprocess.run(command, check=True, capture_output=True, text=True)
+    except subprocess.CalledProcessError as exc:
+        raise RuntimeError(
+            "ffmpeg failed while rendering the Instagram reel.\n"
+            f"stderr: {exc.stderr}"
+        ) from exc
+    finally:
+        if os.path.exists(temp_image_path):
+            os.remove(temp_image_path)
 
 if __name__ == "__main__":
 
@@ -59,5 +100,5 @@ if __name__ == "__main__":
     #    image_path="images/hades_at_the_function.png", 
     #    audio_path="audio/OT_testclip.mp3", 
     #    output_path="videos/final_video.mp4", 
-    #    duration=20  # length of video in seconds
+    #    duration=12  # length of video in seconds
     #)

@@ -6,6 +6,7 @@
 
 # Python
 .venv/
+.venv.broken/
 __pycache__/
 *.pyc
 .DS_Store
@@ -14,6 +15,10 @@ __pycache__/
 audio
 images
 videos
+content
+tmp/
+bin/ngrok
+ngrok.yml
 
 # Editors / IDE
 .vscode/

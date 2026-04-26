@@ -8,6 +8,7 @@ def run_once():
     run_machine()
     finished = datetime.now()
 
+
 def run_loop(interval_seconds: int = 2 * 60 * 60) -> None:
     """Run the content machine every `interval_seconds` (default: 2 hours)."""
     print(f"Scheduler started. Interval: {interval_seconds} seconds (~2 hours)")
