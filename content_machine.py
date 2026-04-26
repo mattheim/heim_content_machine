@@ -90,7 +90,8 @@ def run_machine():
         image_path=saved_path,
         audio_path=final_out_path,
         output_path=os.path.join(out_dir_video, f"{final_str}.mp4"),
-        duration=REEL_DURATION_SECONDS
+        duration=REEL_DURATION_SECONDS,
+        overlay_text=overlay_text
     )
 
 	local_video = os.path.join(out_dir_video, f"{final_str}.mp4")

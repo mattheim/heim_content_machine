@@ -704,11 +704,12 @@ def generate_all(model: str | None = None) -> tuple[str, str, str, str]:
         package["overlay_text"],
     )
 
-def generate_image_prompt(theme, visual_concept, character_context, caption):
+def generate_image_prompt(theme, visual_concept, character_context, caption=None):
     rules = (
-        "Make sure all critical content is Instagram-safe. Keep text and key subjects inside the centered safe zone, "
+        "Make sure all critical content is Instagram-safe. Keep key subjects inside the centered safe zone, "
         "with at least 15% padding on the left and right, 12% padding on the top, and 18% padding on the bottom. "
-        "Do not place faces, hands, props, or caption text near the edges."
+        "Do not place faces, hands, or important props near the edges. "
+        "Do not render any text, captions, letters, words, watermarks, logos, UI, signs, labels, subtitles, or typography in the image."
     )
 
     style_era = (
@@ -797,25 +798,19 @@ def generate_image_prompt(theme, visual_concept, character_context, caption):
         "resolution": {resolution}
         }
     
-    text_style = (
-        """
-          Font: White bold sans-serif (meme style) with black outline.
-          Placement: Centered, clean, and well inside the middle safe area with generous empty margins on both sides.
-          Length: 1–2 lines max — just enough to sound like a divine whisper or sarcastic decree.
-          Framing: Keep all text within the middle 70% of the canvas width and middle 60% of the canvas height.
-          Resolution target: 1024x1536 portrait composition, optimized for Instagram and reel covers.
-        """
-    )
-
     instagram_reels_specs = {
         "render_resolution": "1024x1536 portrait source",
         "safe_area": (
-            "Keep all important visual action, text, and faces inside a centered 4:5 safe area so nothing important "
+            "Keep all important visual action and faces inside a centered 4:5 safe area so nothing important "
             "is cropped in the Instagram app preview, feed crop, or reel cover."
         ),
         "composition": (
             "Use a portrait composition with the main subject slightly larger in the middle, but never touching the side edges. "
-            "Leave comfortable negative space on both sides."
+            "Leave comfortable negative space on both sides and near the top so code-rendered meme text can be added later."
+        ),
+        "text_policy": (
+            "Generate clean artwork only. The system will add the final overlay text after image generation, "
+            "so the image itself must contain no readable or fake text."
         ),
     }
 
@@ -830,9 +825,6 @@ def generate_image_prompt(theme, visual_concept, character_context, caption):
     Visual Concept: {textwrap.fill(visual_concept, width=90)}
     Character Context: {textwrap.fill(character_context, width=90)}
 
-    Text Overlay: {caption}
-    Text Overlay Style: {text_style}
-
     Visual Style: {visual_style}
 
     instagram_reels_specs: {instagram_reels_specs}
@@ -840,6 +832,7 @@ def generate_image_prompt(theme, visual_concept, character_context, caption):
     Final framing requirement:
     The result must feel intentionally composed for Instagram mobile viewing.
     Nothing important should be cropped if the app trims the outer edges.
+    Leave clean negative space for a later code-rendered text overlay, but do not draw the overlay text yourself.
     """
 
     return textwrap.dedent(prompt).strip()
