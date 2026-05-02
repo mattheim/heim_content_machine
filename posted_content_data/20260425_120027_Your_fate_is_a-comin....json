@@ -1,0 +1,59 @@
+{
+  "theme": "\"In a realm where Olympian gods play dice with mortal fates, a brooding demigod must navigate treacherous intrigue as his mother's prophecy begins to unravel, threatening to upend the fragile balance between the divine and the human world.\"",
+  "visual_concept": "\"Depict a young demigod, son of Zeus or Poseidon, standing atop a windswept cliff overlooking the Aegean Sea at dusk. He's dressed in worn leather armor, with his mother's laurel wreath clutched in his hand as if it's a life preserver. The sky behind him is ablaze with hues of crimson and gold, while the sea below churns with turbulent waves, foreshadowing the turmoil to come.\n\nIn the foreground, a scattering of broken papyrus scrolls and forgotten artifacts lies scattered at his feet, hinting at his mother's failed prophecies and the weight of inherited fate. A distant figure, shrouded in mist, watches him from the shadows \u2013 perhaps a harbinger of doom or an enigmatic guide, only visible to those attuned to the whispers of the gods.\n\nStyle: Inspired by ancient Greek pottery and illuminated manuscripts, with bold lines, deep shadows, and a vibrant color palette that captures the drama and mysticism of the era.\"",
+  "character_context": "\"The young demigod, Theodoros, is the son of Poseidon, King of the Seas, and a mortal woman named Chryseis, who was once a priestess of Aphrodite. His mother's prophecies were always shrouded in mystery, but one thing was clear: her visions would bring about great change, and Theodoros would play a crucial role in shaping the course of fate.\n\nOrphaned at a young age after his mother's disappearance, Theodoros has grown up under the watchful eye of Poseidon himself. He has been groomed for greatness, but his own path is unclear \u2013 will he follow in his father's footsteps as a powerful sea god, or forge his own destiny amidst the treacherous politics of Mount Olympus?\n\nTheodoros is driven by a sense of responsibility to uncover the truth about his mother's prophecies and the mysterious events that led to her vanishing. He is fiercely independent, often challenging the authority of the gods and defying convention in pursuit of knowledge.\n\nAs he stands at the cliff's edge, Theodoros feels the weight of his legacy bearing down upon him \u2013 the laurel wreath around his neck a constant reminder of his mother's words: 'The future is written in the waves, but only you can read the signs.'\"",
+  "overlay_text": "Your fate is a-comin'...",
+  "caption_hook": "You are the waves, and your future is being written.",
+  "post_body": "So go ahead, take the leap. After all, the gods aren't responsible for your splashy mistakes.",
+  "hashtags": [
+    "#fatequotes",
+    "#demigodlife"
+  ],
+  "first_comment": "Sending you all the best vibes, Theodoros!",
+  "style_label": "motivational_one_liners",
+  "content_pillar": "motivational_one_liners",
+  "comedic_mechanism": "elegant_melancholy",
+  "target_outcome": "follow",
+  "scene_anchor": "Theodoros standing at the cliff's edge",
+  "selection_reason": "This candidate stands out because it offers a poignant and relatable message that resonates with both mythology fans and non-experts. The hook is strong, the post body adds depth w",
+  "rejection_reasons": [],
+  "instagram_caption": "You are the waves, and your future is being written.\n\nSo go ahead, take the leap. After all, the gods aren't responsible for your splashy mistakes.\n\n#fatequotes #demigodlife",
+  "candidates": [
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "When fate calls...",
+      "caption_hook": "You are the waves, and your future is being written.",
+      "post_body": "So go ahead, take the leap. Just don't blame us for the splash.",
+      "first_comment": "Sending you all the best vibes, Theodoros!",
+      "hashtags": [
+        "#fatequotes",
+        "#demigodlife"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "follow",
+      "scene_anchor": "Theodoros standing at the cliff's edge",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "When prophecies go awry...",
+      "caption_hook": "Oracle: 'Your fate is sealed.' Me: 'Is that a new policy?",
+      "post_body": "Just another day in the office for us gods.",
+      "first_comment": "Preach, Theodoros! Preach!",
+      "hashtags": [
+        "#oraclelife",
+        "#godsbeingjudgy"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "share",
+      "scene_anchor": "The distant figure watching from the shadows",
+      "rejection_reasons": []
+    }
+  ],
+  "image_path": "images/20260425_120027_Your_fate_is_a-comin....png",
+  "audio_path": "audio/reel_clip_edit_heim - progggy 2.wav",
+  "video_path": "videos/20260425_120027_Your_fate_is_a-comin....mp4",
+  "generated_at": "20260425_120027"
+}

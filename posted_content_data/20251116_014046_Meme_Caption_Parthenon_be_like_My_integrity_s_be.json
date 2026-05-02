@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-11-16T01:40:46+0000",
+  "overlay_text": null,
+  "caption_hook": "## Meme Caption",
+  "post_body": "## Meme Caption\n\nParthenon be like: \"My integrity’s been a mess since kindergarten\"",
+  "caption": "## Meme Caption\n\nParthenon be like: \"My integrity’s been a mess since kindergarten\"",
+  "instagram_post_info": {
+    "id": "18065513081434267",
+    "caption": "## Meme Caption\n\nParthenon be like: \"My integrity’s been a mess since kindergarten\"",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQMD9THsIKht0glNObDc5kd7d-ad6gIvxaG5a54hDu3XwTzovO5Yygc-yFJTNfF7CFkLAwQxSKWEvdexm-2VMqRz81CxFp3-UZEiHOU.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=Jq2uBbRge_kQ7kNvwHC3s38&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTkzNzcxNzgxNzA5MDYzNSwiYXNzZXRfYWdlX2RheXMiOjE2NywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a4b86f86adce98ec&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NjRFNzk2OTBERjAxQzM3MkU4QzQ0MDNDNTJEMjlBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MTQyNDg5NDMyNjc4NTAzXzM0MDI3MTk0Njk0OTgyOTkwNjIubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpaJzeKClvEGFQIoAkMzLBdANAAAAAAAABgSZGFzaF9iYXNlbGluZV8zX3YxEQB1_gdl5p0BAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af4dvqfm5APWwxASHrvRM-2uPJjKxluBzqvg9RbKPqAPFQ&oe=69F87639",
+    "permalink": "https://www.instagram.com/reel/DRGWfMQjFAI/",
+    "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.71878-15/583026503_800398626202649_4519342155575369299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=z-k476qZepYQ7kNvwGvEw4c&_nc_oc=AdqoPtuVG6N6Drfap0cKsM312ShQzSSDSdyfRzZKJPVjqWDLglkFvG8E0BBPe9R4XLQ&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQFxyNXzrBp7udmUmx3IwqxTI4xmBh6RnY083JxinHKK43FzrqcIIncADkuat-hIp5kUqoVMKBm7cA&oh=00_Af4odR6mr1EOI8cXNX15C7vNWp3ZeENfFUZX-mahz6wRkQ&oe=69FC3DF5",
+    "timestamp": "2025-11-16T01:40:46+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 56,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 48,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 0,
+    "posted_at": "2025-11-16T01:40:46+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.0,
+    "updated_at": "2026-05-02T23:11:57Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:11:57Z",
+    "raw_metrics": {
+      "views": 56,
+      "reach": 48,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0
+    }
+  }
+}

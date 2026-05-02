@@ -1,0 +1,209 @@
+{
+  "theme": "\"In the sweltering summer of ancient Argos, where the Nemean Lion's shadow still looms large, Eurydice, the enchantress daughter of Orpheus, has vanished into the labyrinthine streets of Tiryns, leaving behind a trail of whispered secrets and shattered lyres. The gods are silent, the mortals are frantic, and the Fates are weaving a tapestry of intrigue as treacherous as the paths of the underworld.\"",
+  "visual_concept": "\"Visualize Eurydice, daughter of Orpheus, standing at the threshold of a dimly lit tavern in ancient Tiryns, her slender fingers wrapped around the neck of a shattered lyre as she listens intently to a hooded figure who speaks in hushed tones. The walls behind her are adorned with frescoes depicting the labors of Heracles and the mythic beasts that roam the countryside. Eurydice's gaze is cast downward, her eyes gleaming with a mix of curiosity and trepidation as she weighs the words of her mysterious informant. In the background, a figure can be seen disappearing into the shadows, their face obscured by the flickering torchlight.\"",
+  "character_context": "\"Eurydice: Daughter of Orpheus, 20 years old. Enchantress, musician, and whispered confidante to those in need of guidance. Her fingers are stained with the ink of forgotten songs and her voice can charm even the gods from their thrones. Yet, Eurydice's heart is heavy with secrets and lies that threaten to unravel the very fabric of her existence. With a gaze as piercing as the morning star, she navigates the treacherous landscape of Tiryns, torn between loyalty to her family's legacy and the whispers of a life unscripted by fate.\"",
+  "overlay_text": "Mortal gossip alert",
+  "caption_hook": "Athena's top 3 most dramatic mortal scandals: Eurydice, Orpheus, and... you?",
+  "post_body": "Apparently, Eurydice is 'making waves' in Tiryns. Who knew?",
+  "share_cta": "Comment below: which one made the cut for worst drama queen of all time",
+  "hashtags": [
+    "#godlygossip",
+    "#tirynsdrama"
+  ],
+  "first_comment": "",
+  "hook_style": "athena_s_buzzfeed",
+  "hook_score": 8.5,
+  "hook_score_reason": "This hook leans into Athena's gossiping nature, making viewers think of specific friends or group chats",
+  "caption_scores": {
+    "two_second_clarity": 5.0,
+    "visual_specificity": 5.0,
+    "sendability": 0.0,
+    "myth_accessibility": 3.5,
+    "second_beat_strength": 4.25,
+    "cta_naturalness": 2.25,
+    "overall": 3.31
+  },
+  "judge_notes": "Needs work on sendability, cta_naturalness.",
+  "hook_generation_error": "",
+  "style_label": "selected",
+  "content_pillar": "petty_god_behavior",
+  "comedic_mechanism": "deadpan",
+  "target_outcome": "comment",
+  "scene_anchor": "The hooded figure in the background",
+  "selection_reason": "Candidate 0 has a strong hook, deadpan humor, and high myth accessibility. It encourages engagement by asking for comments on the juiciest rumor, making it shareable and specific e",
+  "rejection_reasons": [],
+  "instagram_caption": "Athena's top 3 most dramatic mortal scandals: Eurydice, Orpheus, and... you?\n\nApparently, Eurydice is 'making waves' in Tiryns. Who knew?\n\nComment below: which one made the cut for worst drama queen of all time\n\n#godlygossip #tirynsdrama",
+  "candidates": [
+    {
+      "style_label": "short_snake_case_style_name",
+      "overlay_text": "Dealing with drama",
+      "caption_hook": "Athena's favorite pastime: gossiping about mortals",
+      "post_body": "Apparently, Eurydice is 'making waves' in Tiryns. Who knew?",
+      "share_cta": "Comment below: what's the juiciest rumor you've heard from Olympus recently",
+      "first_comment": "",
+      "hashtags": [
+        "#godlygossip",
+        "#tirynsdrama"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "comment",
+      "scene_anchor": "The hooded figure in the background",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 0.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 4.25,
+        "cta_naturalness": 3.0,
+        "overall": 3.56
+      },
+      "judge_notes": "Needs work on sendability.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "short_snake_case_style_name",
+      "overlay_text": "Shattered dreams, but not your Spotify playlist",
+      "caption_hook": "When life gives you lemons, make a TikTok about it instead",
+      "post_body": "Because, let's face it, the only constant is change. And also, maybe the gods.",
+      "share_cta": "Follow us for more mythological one-liners and relatable meme fuel",
+      "first_comment": "",
+      "hashtags": [
+        "#motivationmonday",
+        "#mythicalmusing"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "follow",
+      "scene_anchor": "Eurydice's shattered lyre",
+      "caption_scores": {
+        "two_second_clarity": 4.25,
+        "visual_specificity": 5.0,
+        "sendability": 0.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 5.0,
+        "cta_naturalness": 1.5,
+        "overall": 3.32
+      },
+      "judge_notes": "Needs work on sendability, cta_naturalness.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "short_snake_case_style_name",
+      "overlay_text": "Follow your heart, even if it leads to darkness",
+      "caption_hook": "When life gives you lemons, make a new identity for yourself",
+      "post_body": "Because, let's face it, the only constant is change. And also, maybe the gods.",
+      "share_cta": "Follow us for more existential crisis fuel and mythological one-liners",
+      "first_comment": "",
+      "hashtags": [
+        "#motivationmonday",
+        "#mythicalmusing"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "follow",
+      "scene_anchor": "Eurydice's gaze into the shadows",
+      "caption_scores": {
+        "two_second_clarity": 2.75,
+        "visual_specificity": 5.0,
+        "sendability": 0.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 5.0,
+        "cta_naturalness": 1.5,
+        "overall": 3.05
+      },
+      "judge_notes": "Needs work on sendability, cta_naturalness.",
+      "rejection_reasons": []
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "athena_s_buzzfeed",
+      "overlay_text": "Mortal gossip alert",
+      "caption_hook": "Athena's top 3 most dramatic mortal scandals: Eurydice, Orpheus, and... you?",
+      "share_cta": "Comment below: which one made the cut for worst drama queen of all time",
+      "score_reason": "This hook leans into Athena's gossiping nature, making viewers think of specific friends or group chats"
+    },
+    {
+      "hook_style": "olympus_office",
+      "overlay_text": "Internal memo from Olympus HQ",
+      "caption_hook": "URGENT: Eurydice's drama has reached ' mortal-level' chaos in Tiryns. Send help (or a good therapist)",
+      "share_cta": "Comment below: who else needs to get the latest on the drama in Tiryns?",
+      "score_reason": "This hook uses an office memo format to make viewers think of sharing the joke with coworkers or friends"
+    },
+    {
+      "hook_style": "greek_gossip_network",
+      "overlay_text": "The grapevine is buzzing",
+      "caption_hook": "What's the latest on Eurydice? We heard she's been spotted in Tiryns, but what's the real tea?",
+      "share_cta": "Comment below: spill the beans! Who else has the scoop on Eurydice's drama?",
+      "score_reason": "This hook leans into the Greek mythology context, making viewers think of sharing the joke with friends or group chats"
+    },
+    {
+      "hook_style": "athena_s_blog",
+      "overlay_text": "The gods' guide to mortal gossip",
+      "caption_hook": "Tune in this week for the latest on Eurydice's drama: a juicy mix of love, loss, and... maybe even some magic?",
+      "share_cta": "Comment below: what do you think is behind Eurydice's drama? Share your theories!",
+      "score_reason": "This hook uses Athena's blog format to make viewers think of sharing the joke with friends or group chats"
+    },
+    {
+      "hook_style": "mortal_scandal_network",
+      "overlay_text": "Scandals and scandals",
+      "caption_hook": "We've got the scoop on Eurydice: from love triangles to divine interventions. Who's next?",
+      "share_cta": "Comment below: which mortal is about to be exposed for their scandalous behavior?",
+      "score_reason": "This hook leans into the scandalous nature of the joke, making viewers think of sharing it with friends or group chats"
+    }
+  ],
+  "image_path": "images/20260502_132636_Mortal_gossip_alert.png",
+  "audio_path": "audio/reel_clip_edit_Dukeheim - poison dart frog .wav",
+  "video_path": "videos/20260502_132636_Mortal_gossip_alert.mp4",
+  "generated_at": "20260502_132636",
+  "duration": 12.0,
+  "performance": {
+    "views": 14,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 10,
+    "watch_time": null,
+    "total_interactions": 1,
+    "posted_at": "2026-05-02T13:29:01",
+    "duration": 12.0,
+    "hook_style": "athena_s_buzzfeed",
+    "content_pillar": "petty_god_behavior",
+    "comedic_mechanism": "deadpan",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.1,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.1,
+    "updated_at": "2026-05-02T23:21:51Z",
+    "follows": null
+  },
+  "instagram_post_info": {
+    "id": "18395059831159997",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOOg3uiIz60wwddFxfiWWj7BSH3ffbDCDSGUcW9aIwr-Ej6NWbnsChmI-hoPujETHVE7K7Ya-GHOkhCQoCnjF4Y4Mc44Q33hS2dtvs.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=JsulkbkUO3AQ7kNvwEiJ-q5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDc2NzM4NTc0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1eee09740bfb39e9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMzRERTZFRjBGRUQ2QTA1RjcxOTFBMjcxMThFMEY4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcwNDRCRjdCQTQxNThDMUM4NkE2MDMxNzMwNUMzMDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8uLGw57vPPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af5WxkcTUEImXHu5PCdE7Lmq-uH_NphbXI4Y82DuQEyKaw&oe=69F84CB9",
+    "caption": "Athena's top 3 most dramatic mortal scandals: Eurydice, Orpheus, and... you?\n\nApparently, Eurydice is 'making waves' in Tiryns. Who knew?\n\nComment below: which one made the cut for worst drama queen of all time\n\n#godlygossip #tirynsdrama",
+    "permalink": "https://www.instagram.com/reel/DX2DtaFCvdC/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.71878-15/657284756_945869761584423_6326586824783298450_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8SjqffES25sQ7kNvwHSMLmy&_nc_oc=AdrCvFIEmcvZIct1UzQjpXO0SE4OPgn6ZOHlJ5hzBsHmnUvr0e-MIIcTt5YG0crfgoM&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQGMuz48asZ1-Pu6XpZTcLt5-zt14wWyaF-QmZ6cytr6Xm_DwBmP4VYa_58CsmUMj5BsBwhiruCKZQ&oh=00_Af4qrJgNZ5TqSYzvH1rIDhY_syZok4V9f8jm3sGNe7U89Q&oe=69FC5643",
+    "timestamp": "2026-05-02T17:28:55+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "Athena's top 3 most dramatic mortal scandals: Eurydice, Orpheus, and... you?\n\nApparently, Eurydice is 'making waves' in Tiryns. Who knew?\n\nComment below: which one made the cut for worst drama queen of all time\n\n#godlygossip #tirynsdrama",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:21:51Z",
+    "raw_metrics": {
+      "views": 14,
+      "reach": 10,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1
+    }
+  }
+}

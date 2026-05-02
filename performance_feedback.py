@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any
 
 
@@ -12,8 +12,12 @@ PERFORMANCE_METRIC_FIELDS = (
     "saves",
     "reach",
     "watch_time",
-    "follows",
+    "total_interactions",
 )
+
+
+def _utc_now() -> str:
+    return datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
 
 
 def _safe_number(value: Any) -> float:
@@ -91,7 +95,7 @@ def build_performance_record(content: dict, duration: float, posted_at: str | No
             "hook_style": content.get("hook_style"),
             "content_pillar": content.get("content_pillar"),
             "comedic_mechanism": content.get("comedic_mechanism"),
-            "updated_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
+            "updated_at": _utc_now(),
         }
     )
     metrics.update(calculate_performance_rates(metrics))
@@ -106,5 +110,5 @@ def update_performance_record(existing: dict | None, updates: dict) -> dict:
         if field in updates:
             metrics[field] = updates[field]
     metrics.update(calculate_performance_rates(metrics))
-    metrics["updated_at"] = datetime.utcnow().isoformat(timespec="seconds") + "Z"
+    metrics["updated_at"] = _utc_now()
     return metrics

@@ -1,0 +1,61 @@
+{
+  "theme": "\"In an alternate Aegean, mortal heroes are bound to serve the whims of the Olympian gods - but when Poseidon's favorite mortal, Theseus, discovers a hidden prophecy that foretells his own downfall, he must navigate treacherous seas of divine politics and mortal ambition to prevent his fate from being sealed.\"",
+  "visual_concept": "\"Visual Concept: 'Tides of Fate'\n\n* Setting: A mist-shrouded Aegean island at dawn, with the faint outlines of a distant city-state (Athens) visible in the background.\n* Poseidon's palace rises like a monolith from the sea, its marble columns glistening with dew as the first light of day breaks over the waves.\n* Theseus stands at the water's edge, his figure silhouetted against the rising sun. He gazes out to sea, his expression a mix of determination and trepidation.\n* In the foreground, a scattering of lotus flowers and shells adorn the shore, symbolizing the precarious balance between mortal fate and divine whimsy.\n* The sky above is a deep shade of cerulean, with wispy clouds that seem to take on the shape of sea serpents or whales, foreshadowing the turmoil to come.\"",
+  "character_context": "\"Character Context: Theseus, a 25-year-old mortal hero and favorite of Poseidon, stands at a crossroads between his duty-bound service to the gods and his own sense of self-determination.\n\n* Personality Traits:\n\t+ Ambitious: Theseus is driven by a desire for greatness, seeking to surpass even the greatest heroes of old.\n\t+ Loyal: Despite his growing unease with the divine status quo, he remains committed to serving Poseidon and upholding the honor of his city-state.\n\t+ Enigmatic: Theseus possesses an air of mystery, as if there is more to him than meets the eye \u2013 a secret that only he knows.\n* Physical Description:\n\t+ Chiseled features and piercing blue eyes that seem to bore into those he meets.\n\t+ Broad shoulders and athletic build, honed from years of battling sea monsters and navigating treacherous underwater ruins.\n\t+ A silver circlet adorns his brow, a symbol of his status as Poseidon's favored mortal.\n* Background:\n\t+ Orphaned at a young age, Theseus was raised by King Aegeus of Athens, who recognized the boy's exceptional abilities and trained him in the arts of combat and leadership.\n\t+ Now, with the weight of his own destiny pressing upon him, Theseus must navigate the complex web of alliances between mortals and gods to prevent a catastrophic war that will shake the foundations of the world.\"",
+  "overlay_text": "Divine favor... or not",
+  "caption_hook": "When your crush is literally a god, but also super controlling (and honestly kind of a toxic partner)",
+  "post_body": "Apparently, Poseidon has high standards for his favorite mortal. But hey, at least Theseus gets to hang out with the sea king in style.",
+  "hashtags": [
+    "#godsinrelationships",
+    "#toxicpartners"
+  ],
+  "first_comment": "Tell me more about this drama.",
+  "style_label": "relationship_memes",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "savage_observational_humor",
+  "target_outcome": "comment",
+  "scene_anchor": "Theseus' worried expression and Poseidon's palace in the background",
+  "selection_reason": "This candidate stands out because it's a relatable take on modern relationships, even for those without deep mythology knowledge. The hook is strong and immediately understandable,",
+  "rejection_reasons": [
+    "hook_too_long"
+  ],
+  "instagram_caption": "When your crush is literally a god, but also super controlling (and honestly kind of a toxic partner)\n\nApparently, Poseidon has high standards for his favorite mortal. But hey, at least Theseus gets to hang out with the sea king in style.\n\n#godsinrelationships #toxicpartners",
+  "candidates": [
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "Divine favor",
+      "caption_hook": "When your crush is literally a god, but also super controlling",
+      "post_body": "Apparently, Poseidon has high standards for his favorite mortal.",
+      "first_comment": "Tell me more about this drama.",
+      "hashtags": [
+        "#godsinrelationships",
+        "#divineromance"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "follow",
+      "scene_anchor": "Theseus and Poseidon's bond",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "Fate sealed",
+      "caption_hook": "New prophecy update: Theseus will definitely not get what he wants",
+      "post_body": "Just another day at the Oracle office.",
+      "first_comment": "What's next on the docket?",
+      "hashtags": [
+        "#prophecyupdates",
+        "#fated"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "comment",
+      "scene_anchor": "The oracle's prophecy on the shore",
+      "rejection_reasons": []
+    }
+  ],
+  "image_path": "images/20260419_123355_Divine_favor..._or_not.png",
+  "audio_path": "audio/reel_clip_edit_Adele - rumor has it (heim edit) mixdown.wav",
+  "video_path": "videos/20260419_123355_Divine_favor..._or_not.mp4",
+  "generated_at": "20260419_123355"
+}

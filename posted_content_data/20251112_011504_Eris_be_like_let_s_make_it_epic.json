@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-11-12T01:15:04+0000",
+  "overlay_text": null,
+  "caption_hook": "Eris be like: \"let's make it epic\"",
+  "post_body": "Eris be like: \"let's make it epic\"",
+  "caption": "Eris be like: \"let's make it epic\"",
+  "instagram_post_info": {
+    "id": "18064335308565855",
+    "caption": "Eris be like: \"let's make it epic\"",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMfXkQCAAf976yxJT52qP-Tl3QVHpS2CIY8Fdu66V5P4DBr2HdsDXrw4AHJ1_buxsqRkfTzUkNblHKJl-1PxjlckKE5shx6lGVjfhI.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=Cr9C9jnjw68Q7kNvwGV8otV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTkyMDczNTYyMTg0MDc3NiwiYXNzZXRfYWdlX2RheXMiOjE3MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=642872de4e4c0f5e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MDQ4QjVBMjQ2OENFOEM0NzJGREMwQkQ0RDI3M0JCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMjk1MjQ3NDQ4OTU0Mjc3XzYyNTQ4Njk5NDI2NDY5MjM3NDAubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpD-k8fDuekGFQIoAkMzLBdANAAAAAAAABgSZGFzaF9iYXNlbGluZV8zX3YxEQB1_gdl5p0BAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af7nwag4jsI--mHmXUd9WvmrPo_MUm4u3AJ4a-RK75DUjg&oe=69F85F0D",
+    "permalink": "https://www.instagram.com/reel/DQ8AXhyEfq8/",
+    "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/581749138_1365570324954178_3909705368246119566_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jgI9OpTtg_sQ7kNvwFeH_Ci&_nc_oc=Adq_CT7KderWHGexlojQhAb81VwHoAZ1Q8KT5tn_uF41fnYTLUB12HRPjt1BTGA1U30&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQG-SruaeRh51wutIS88w5u3D8SuSj6CAIscXfhX5-R7G5axTlkdwuM3o2AIIDNp6sJsURoN7DKTfg&oh=00_Af6vbT-PbDhF3aOcpzmLxoLhEnTGrw-I4S8X68lhn5C8Dg&oe=69FC4220",
+    "timestamp": "2025-11-12T01:15:04+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 138,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 110,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 4,
+    "posted_at": "2025-11-12T01:15:04+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.03636363636363636,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.03636363636363636,
+    "updated_at": "2026-05-02T23:10:45Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:10:45Z",
+    "raw_metrics": {
+      "views": 138,
+      "reach": 110,
+      "likes": 4,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 4
+    }
+  }
+}

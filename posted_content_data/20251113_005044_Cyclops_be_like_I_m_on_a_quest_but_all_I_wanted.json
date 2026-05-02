@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-11-13T00:50:44+0000",
+  "overlay_text": null,
+  "caption_hook": "Cyclops be like: \"I'm on a quest, but all I wanted was good souvlaki.\"",
+  "post_body": "Cyclops be like: \"I'm on a quest, but all I wanted was good souvlaki.\"",
+  "caption": "Cyclops be like: \"I'm on a quest, but all I wanted was good souvlaki.\"",
+  "instagram_post_info": {
+    "id": "18087264436784068",
+    "caption": "Cyclops be like: \"I'm on a quest, but all I wanted was good souvlaki.\"",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQOykgNNlvA_rKK4Ul3Bk0idf7m1PloNkTlOMuglk3KihpWDURm0oZ4POztshAHa5DesfVjkpig82_9aUjT8_7lNQIyHNSdDcbfmjLM.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=g9alw5bXlLoQ7kNvwE_iBjm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6OTkyMTA2NjkzMTM2Mjk4LCJhc3NldF9hZ2VfZGF5cyI6MTcwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17532c3f58e5a393&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNzQzRDBFRjBCNEI0NDQyQ0NFNDFGQTIxQ0VCRERBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMTUyMDE0NTI3MDU3MDA1XzQxMDY4MzMxMjM3MjIyNDg2ODEubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtS-sPCalMMDFQIoAkMzLBdANAAAAAAAABgSZGFzaF9iYXNlbGluZV8zX3YxEQB1_gdl5p0BAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af7eL4pm8tcly09DnmY5ndqZsJEemdBmFYf4-QUFpnHqbA&oe=69F8535B",
+    "permalink": "https://www.instagram.com/reel/DQ-iYJEFFQd/",
+    "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/580583463_1883172092557638_5192066153699377844_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GwhU6-CyeDoQ7kNvwEyjD4C&_nc_oc=Adqb5_ds8wunxYaazl6A-edHz1r5va8Y7NYMRXa_4IjlAn3VrSdlm9SHyzgtk_oNP_U&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQGrn0dsJil1NKAznYoSDKj0Wb5DmJzGid_XzKAhl7z9MVMGlk4JZsoPcHYxSnJ_0m4hA_-pWLof3A&oh=00_Af7FCNGenXdhNQ2ACh944qWtMP8gTarfKrA-iruxA2psvw&oe=69FC5A9B",
+    "timestamp": "2025-11-13T00:50:44+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 125,
+    "likes": 3,
+    "comments": 1,
+    "shares": 0,
+    "saves": 0,
+    "reach": 106,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 4,
+    "posted_at": "2025-11-13T00:50:44+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.02830188679245283,
+    "comment_rate": 0.009433962264150943,
+    "completion_proxy": null,
+    "engagement_score": 0.04716981132075472,
+    "updated_at": "2026-05-02T23:11:06Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:11:06Z",
+    "raw_metrics": {
+      "views": 125,
+      "reach": 106,
+      "likes": 3,
+      "comments": 1,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 4
+    }
+  }
+}

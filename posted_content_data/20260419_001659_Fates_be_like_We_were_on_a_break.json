@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2026-04-19T00:16:59+0000",
+  "overlay_text": null,
+  "caption_hook": "Fates be like: \"We were on a break.\"",
+  "post_body": "Fates be like: \"We were on a break.\"",
+  "caption": "Fates be like: \"We were on a break.\"",
+  "instagram_post_info": {
+    "id": "18134970106548335",
+    "caption": "Fates be like: \"We were on a break.\"",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMXURE6eRT7h_gkgzVzJs_2LfXZB1i5WxrbAk4TAekjSLnAbThUCFA8sCWLMHMnKwIoFQvV1MNbR0kbd8LYbarYAeMJxuBfG_rj4-w.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=Xxyqqojm_boQ7kNvwHu1TtT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDUzMTYwODg0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=eaa044f45600d1d3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MzQ2NDI1NDFGMTc0MDNBMThEQzNGOEI5RjdCRTlBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcwNDBERUZDNjBERTc4Q0ZFQTU1ODA0M0E2M0U4QzgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa859LQyLLOPxUCKAJDMywXQDQAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af5eGv-e-sjdbPzAFtdn5zrG7Qh4Fv_FBecXaVfHMMwMPw&oe=69F872BA",
+    "permalink": "https://www.instagram.com/reel/DXSvTzoCIhD/",
+    "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/670613230_1441860207221480_3486926377515553925_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QR3PbVv-4_IQ7kNvwEj1D_f&_nc_oc=Adql4vyb0-e1S8bFUK8eyTCoNtN5qo_19a95DFO0nPbJGTjtLrSD5_8LKmEVVhR9Zg0&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQGEHIneqPIFvD51X_8NeWfg0fHwo6l9O6deaxi7E_jl9PZecoKJGjX_-6tbEyivJhMtVzFgG2HJ-A&oh=00_Af43-ISsrM4S7x1wR8776-skKkkwScWZ6ZYvHnWB5UJWyA&oe=69FC7239",
+    "timestamp": "2026-04-19T00:16:59+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 163,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 154,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 3,
+    "posted_at": "2026-04-19T00:16:59+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.01948051948051948,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.01948051948051948,
+    "updated_at": "2026-05-02T23:12:27Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:12:27Z",
+    "raw_metrics": {
+      "views": 163,
+      "reach": 154,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 3
+    }
+  }
+}

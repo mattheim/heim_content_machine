@@ -1,27 +1,13 @@
-import time
-from prompt_pipeline.captions.archetypes import CAPTION_ARCHETYPES
 from prompt_pipeline.captions.generator import (
     _select_best_hook_variant,
-    gen_caption,
     gen_caption_candidates,
     gen_hook_variants,
     select_best_content,
 )
-from prompt_pipeline.captions.normalize import (
-    _compose_instagram_caption,
-    _normalize_candidate,
-    _normalize_hook_variant,
-)
-from prompt_pipeline.captions.scoring import (
-    _candidate_rejection_reasons,
-    _filter_candidates,
-    _judge_caption_candidate,
-    _score_hook_variant,
-    judge_caption_candidates,
-)
+from prompt_pipeline.captions.scoring import _judge_caption_candidate
 from prompt_pipeline.content.generator import gen_character_context, gen_theme, gen_visual_concept
-from prompt_pipeline.images.prompts import generate_image_prompt
-from prompt_pipeline.parsing import _clean_line, _extract_json_payload, _normalize_hashtags
+from prompt_pipeline.parsing import _clean_line
+
 
 def generate_content_package(model: str | None = None) -> dict:
     messages: list = []
@@ -52,6 +38,8 @@ def generate_content_package(model: str | None = None) -> dict:
     selected["hook_score"] = selected_hook["hook_score"]
     selected["hook_score_reason"] = selected_hook["score_reason"]
     selected = _judge_caption_candidate(selected)
+    selected["instagram_caption"] = selected.get("instagram_caption") or ""
+    from prompt_pipeline.captions.normalize import _compose_instagram_caption
     selected["instagram_caption"] = _compose_instagram_caption(selected)
 
     return {
@@ -84,16 +72,8 @@ def generate_content_package(model: str | None = None) -> dict:
         "hook_variants": hook_variants,
     }
 
-def generate_all(model: str | None = None) -> tuple[str, str, str, str]:
-    """
-    Orchestrate the 4-step conversation:
-      1) Theme 
-      2) Visual Concept
-      3) Character Context
-      4) Caption
 
-    Returns a tuple: (theme, visual_concept, character_context, caption)
-    """
+def generate_all(model: str | None = None) -> tuple[str, str, str, str]:
     package = generate_content_package(model=model)
     return (
         package["theme"],
@@ -101,24 +81,3 @@ def generate_all(model: str | None = None) -> tuple[str, str, str, str]:
         package["character_context"],
         package["overlay_text"],
     )
-
-def create_prompt():
-
-  start_t=time.perf_counter()
-
-  theme, visual, character, caption = generate_all()
-
-  prompt = generate_image_prompt(theme,visual,character,caption)
-
-  end_t=time.perf_counter()
-  print(f"total runtime: {end_t-start_t:.2f}s")
-
-  return prompt
-
-def main():
-    print("test create prompt")
-    #create_prompt()
-
-if __name__ == "__main__":
-    main()
-    

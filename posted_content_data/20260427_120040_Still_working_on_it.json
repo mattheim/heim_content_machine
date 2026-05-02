@@ -1,0 +1,154 @@
+{
+  "theme": "\"In the scorching summer of ancient Thebes, a demigod's cursed prophecy ignites a maelstrom of divine politics, mortal drama, and fantastical creatures as Perseus' descendants clash in a battle for Olympian favor amidst the crumbling ruins of a long-lost city.\"",
+  "visual_concept": "\"Visual Concept: 'Sic Transit' - A sprawling, sun-scorched cityscape depicts the ruins of Thebes as Perseus' descendants converge in a desperate bid for power. In the foreground, the gleaming bronze armor and proud demeanor of Theseus' son, Hippolytus, contrasts sharply with the crumbling stone façade behind him, symbolizing the transience of mortal life and the inexorable march of fate.\n\nIn the distance, the imposing silhouette of the Olympian palace casts a long shadow over the city, as if the gods themselves are watching the unfolding drama. A majestic Griffin perches atop the palace gates, its piercing gaze surveying the chaos below, while wispy tendrils of smoke from distant fires dance across the horizon.\n\nTo the left, a lone figure of Ariadne, Theseus' long-lost lover, walks alongside a spectral procession of mythological creatures - silhouetted dryads, winged centaurs, and ghostly shades of forgotten heroes. Her eyes are cast downward, lost in thought as she navigates the treacherous path ahead.\n\nThe sky above is ablaze with hues of crimson and gold, evoking the fiery passion and tragic grandeur that defines this mortal coil.\"",
+  "character_context": "\"Character Context: The city of Thebes trembles on the cusp of collapse as Perseus' descendants - mighty heroes and infamous villains alike - vie for Olympian favor in a game of mortal politics.\n\n* Hippolytus, son of Theseus: A brooding, golden-haired demigod driven by a mix of guilt, ambition, and a deep-seated need to redeem his family's honor. He walks a fine line between heroism and tyranny as he navigates the treacherous landscape.\n* Ariadne: A wise and enigmatic figure, shrouded in mystery and sorrow. Her once-bright spirit has been tempered by the bitter lessons of fate, leaving her with an air of melancholy resignation.\n* The Griffin (Guardian of the Palace): An imposing, winged creature forged from the essence of the divine and mortal worlds. Its piercing gaze holds secrets to the cosmos and its loyalty is forever bound to the Olympian throne.\n* Other characters lurking in the shadows:\n  + Demeter's sorrowful daughters, the Heliades\n  + The enigmatic and cunning prophetess, Tiresias\n  + A dark figure shrouded in mist - perhaps a forgotten Titan or a cursed god from the underworld\n\nEach character exists within this maelstrom of fate, bound to their roles by threads of prophecy, family legacy, and the capricious whims of the gods.\"",
+  "overlay_text": "Still working on it",
+  "caption_hook": "When your partner's a demigod, but still can't adult",
+  "post_body": "Love is blind, but even the gods have their limits - especially when it comes to passwords.",
+  "share_cta": "Send this to the friend who's been stuck in a toxic relationship",
+  "hashtags": [
+    "#godlyrelationships",
+    "#mythologicalmishaps"
+  ],
+  "first_comment": "Same! My partner's a Leo and they still can't decide on a streaming service",
+  "hook_style": "short_snake_case_style",
+  "hook_score": 13.75,
+  "hook_score_reason": "Higher send potential with more emphasis on relatable pain",
+  "hook_generation_error": "",
+  "style_label": "relationship_memes",
+  "content_pillar": "relationship_memes",
+  "comedic_mechanism": "savage_observational_humor",
+  "target_outcome": "comment",
+  "scene_anchor": "The romanticized depiction of Ariadne and Theseus in the background",
+  "selection_reason": "",
+  "rejection_reasons": [
+    "hook_too_long"
+  ],
+  "instagram_caption": "When your partner's a demigod, but still can't adult\n\nLove is blind, but even the gods have their limits - especially when it comes to passwords.\n\nSend this to the friend who's been stuck in a toxic relationship\n\n#godlyrelationships #mythologicalmishaps",
+  "candidates": [
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "Still working on getting that one special someone",
+      "caption_hook": "When your partner's a god, but they still can't commit",
+      "post_body": "Love is blind, but even the gods have their limits.",
+      "share_cta": "Comment below with your worst relationship horror stories!",
+      "first_comment": "Omg this is so relatable! My partner's a Gemini",
+      "hashtags": [
+        "#godlyrelationships",
+        "#mythologicalmishaps"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "comment",
+      "scene_anchor": "The romanticized depiction of Ariadne and Theseus in the background",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "It's not you, it's just the prophecy",
+      "caption_hook": "When the Oracle has some bad news to share... again",
+      "post_body": "Just your average, everyday office drama - except when the fate of the world is at stake.",
+      "share_cta": "Send this to the coworker who always knows more than they're letting on",
+      "first_comment": "Same, Oracle! Same",
+      "hashtags": [
+        "#oraclelife",
+        "#propheciesandpretzels"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "share",
+      "scene_anchor": "The Oracle's enigmatic figure in the shadows",
+      "rejection_reasons": []
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Still working on it",
+      "caption_hook": "When your partner's a demigod, but still can't adult",
+      "share_cta": "Send this to the friend who's been stuck in a toxic relationship",
+      "score_reason": "Higher send potential with more emphasis on relatable pain"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Relationship goals?",
+      "caption_hook": "When your partner's a god, but still can't commit to a date night",
+      "share_cta": "Send this to the friend who's been ghosted by a love interest",
+      "score_reason": "More emphasis on relationship goals and relatable pain"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Still working on it",
+      "caption_hook": "When your partner's a demigod, but still can't pass the 'Netflix password' test",
+      "share_cta": "Send this to the friend who's been in a toxic relationship with someone they thought was perfect",
+      "score_reason": "Higher send potential with more emphasis on relatable pain"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Relationship goals?",
+      "caption_hook": "When your partner's a god, but still can't commit to a relationship status update",
+      "share_cta": "Send this to the friend who's been in a long-distance relationship with someone they thought was perfect",
+      "score_reason": "More emphasis on relationship goals and relatable pain"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Still working on it",
+      "caption_hook": "When your partner's a demigod, but still can't adult (or even remember to send you 'happy birthday')",
+      "share_cta": "Send this to the friend who's been in a long-term relationship with someone they thought was perfect, but turned out to",
+      "score_reason": "Highest send potential with most emphasis on relatable pain and shared experience"
+    }
+  ],
+  "image_path": "images/20260427_120040_Still_working_on_it.png",
+  "audio_path": "audio/reel_clip_edit_heim - no time [did you know].wav",
+  "video_path": "videos/20260427_120040_Still_working_on_it.mp4",
+  "generated_at": "20260427_120040",
+  "duration": 12.0,
+  "performance": {
+    "views": 66,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 57,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 0,
+    "posted_at": "2026-04-27T12:03:09",
+    "duration": 12.0,
+    "hook_style": "short_snake_case_style",
+    "content_pillar": "relationship_memes",
+    "comedic_mechanism": "savage_observational_humor",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.0,
+    "updated_at": "2026-05-02T23:13:31Z"
+  },
+  "instagram_post_info": {
+    "id": "18577650190007761",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQMf2EzM5N5uJEwjqmRRQb7x6xU13AgGH5L3ZDpM0JFB1h3P-BfSMM2R_-q_CTvZ8xbO9yTDaBkZyefTBBO8Xc8jYVvkRqHUu-FBefg.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=mIm9aeHx3ugQ7kNvwFl9skQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDY4MTUwOTU0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9b6b500e1b418ac4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84QTRFNDJCQzRGMjA2MDgzOTE2Nzc3MTU2MkFCRTc4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzIxNEY2RUE1ODE1MUY0QUY5MDI0NTVFRDMxNDZCODk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa83o-N6YnPPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af6XSmgNHTSUXfA5FjyPV0g1TzklDbQbkw-GajY3uYZ5ZA&oe=69F84871",
+    "caption": "When your partner's a demigod, but still can't adult\n\nLove is blind, but even the gods have their limits - especially when it comes to passwords.\n\nSend this to the friend who's been stuck in a toxic relationship\n\n#godlyrelationships #mythologicalmishaps",
+    "permalink": "https://www.instagram.com/reel/DXpB6bnilyC/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.71878-15/681289438_1401591775322409_3675116910215266788_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EsP3Gbok_e4Q7kNvwH3gAXq&_nc_oc=Adpcs-Dm8MKCMf1O5VqyrXB77rIfVdSSQoR4fgF2O4NOmltPo6E953dEPfMiz4vCgko&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQFDeKXkK5fUSqCjqQAPEpFcjbQkEplVbA2mAnf9TtpMgt099EVSXTRT3b10bURiD88PI_zkIkF03A&oh=00_Af6zaK8VB38k9tkwcL843by7RNEXlsDNZRjROymNeiDA4g&oe=69FC3B0F",
+    "timestamp": "2026-04-27T16:03:03+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "When your partner's a demigod, but still can't adult\n\nLove is blind, but even the gods have their limits - especially when it comes to passwords.\n\nSend this to the friend who's been stuck in a toxic relationship\n\n#godlyrelationships #mythologicalmishaps",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:13:31Z",
+    "raw_metrics": {
+      "views": 66,
+      "reach": 57,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0
+    }
+  }
+}

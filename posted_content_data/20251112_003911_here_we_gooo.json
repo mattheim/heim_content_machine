@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-11-12T00:39:11+0000",
+  "overlay_text": null,
+  "caption_hook": "here we gooo",
+  "post_body": "here we gooo",
+  "caption": "here we gooo",
+  "instagram_post_info": {
+    "id": "17992705496718213",
+    "caption": "here we gooo",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQP0SzBJiL3ZC6jkqN07OcV-BsPLZFU4fON4-SOANTejnPSfSD0zI70WTiJhfsRgwOYk-JKvklVFkkEPy4Vo47DgRWFxm32mQfJUiXQ.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=FGuO2X-MEDkQ7kNvwExsH7G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6ODQ3NjY3OTc0NTE4NDY5LCJhc3NldF9hZ2VfZGF5cyI6MTcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b0347a8313e0e9a9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNTQwMEQ5MDhFQzE4QzI1NUE4RUNFN0M4NTk2NjRBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MTY2MDUwMDEwMTAyNjFfMjg4NDMwODkyMTEwMDE2NTIyMy5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmituRyOK8gQMVAigCQzMsF0A0AAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHX-B2XmnQEA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af6d2DTbQS-rsjZZ6iCaw39ddI9flHVGs5HsrdV1nFwwFg&oe=69F87357",
+    "permalink": "https://www.instagram.com/reel/DQ78Q-pFXdE/",
+    "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/576094655_1885347442389197_1789593912448986217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bzVlTN15FSgQ7kNvwEPN31D&_nc_oc=AdqHG72XjN_tm8QLkUeiDIVWoPNUFOSciYdVRMBZeobA895ezBMLwQigEoMNnN8Pxdw&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQGNXsYH3t8jb9PMTYOGryB0BEabdK7L-p6ZHVeXhDFfbGkBWx7gBAReWSJPSMNqx1R-o1oXYjZyBQ&oh=00_Af6dPkPf7rRTxeO4AbGSnf1rJbv6kEBeX8mlIZS2nfKKZQ&oe=69FC3EE4",
+    "timestamp": "2025-11-12T00:39:11+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 123,
+    "likes": 0,
+    "comments": 0,
+    "shares": 1,
+    "saves": 0,
+    "reach": 104,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 1,
+    "posted_at": "2025-11-12T00:39:11+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.009615384615384616,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.04807692307692308,
+    "updated_at": "2026-05-02T23:10:35Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:10:35Z",
+    "raw_metrics": {
+      "views": 123,
+      "reach": 104,
+      "likes": 0,
+      "comments": 0,
+      "shares": 1,
+      "saved": 0,
+      "total_interactions": 1
+    }
+  }
+}

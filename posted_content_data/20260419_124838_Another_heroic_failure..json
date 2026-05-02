@@ -1,0 +1,144 @@
+{
+  "theme": "\"In a world where the gods have abandoned Mount Olympus, mortals must navigate the treacherous landscape of their own hubris as the great hero Theseus returns to Athens, haunted by the ghosts of his past conquests and searching for a new purpose in a world that has forgotten its myths.\"",
+  "visual_concept": "\"Visual Concept: 'Echoes of Eternity'\n\nImage Description: A hauntingly beautiful illustration of Theseus standing atop the Acropolis, gazing out towards the city of Athens at dusk. The sky is painted with hues of crimson and gold, as if the setting sun was bleeding into the horizon.\n\nComposition: The image features a strong central figure of Theseus, dressed in worn leather armor and carrying an olive branch staff. He stands atop the ruined Parthenon, his eyes cast down towards the city below. In the background, the sprawling metropolis stretches out like a tapestry, its buildings and temples silhouetted against the vibrant sky.\n\nMood and Atmosphere: The mood is one of contemplative melancholy, as if Theseus has been forever changed by his experiences. The atmosphere is heavy with an sense of nostalgia for a lost era, as if the gods themselves had abandoned the world to its own devices.\n\nSymbolism: A small, ethereal figure of Athena can be seen in the upper left corner, watching over Theseus with a knowing gaze. In her hand, she holds a broken olive branch, symbolizing the fragmented nature of human greatness. The image also subtly incorporates elements of ancient Greek mythology, such as the Minotaur's labyrinthine patterns etched into the stones of the Parthenon.\n\nStyle: Inspired by the works of John William Waterhouse and Edward Burne-Jones, this illustration combines classic realism with an undercurrent of mysticism and symbolism. The level of detail is so fine that it invites the viewer to explore every crevice and shadow, while the overall mood is one of timeless beauty and tragedy.\"",
+  "character_context": "\"Character Context: Theseus, The Haunted Hero\n\nPhysical Description: Theseus stands at around 6'2\", with a ruggedly athletic build honed from years of battle and conquest. His hair is dark and unkempt, framing his chiseled features and piercing blue eyes. A scar above his left eyebrow tells the tale of a long-forgotten battle, while a series of small, intricate tattoos adorn his arms, each one commemorating a victory or defeat.\n\nPersonality: Theseus is a complex, brooding figure haunted by the ghosts of his past. He carries the weight of his own hubris, knowing that he has brought ruin to many cities and civilizations in his quest for glory. Despite this, he remains fiercely independent and determined to carve out a new path for himself, one that will redeem him from the mistakes of his youth.\n\nBackground: Theseus is the son of King Aegeus of Athens and Queen Aethra, a demigod with unparalleled strength and cunning. He has slain the Minotaur in the Labyrinth, saved the city of Crete from its own labyrinthine horrors, and even rescued Helen of Troy from her suitors. However, his greatest conquests have left him with deep emotional scars, and he is now driven by a desperate search for meaning and purpose.\n\nMotivations: Theseus seeks to redeem himself in the eyes of the gods and find a new sense of belonging among mortals. He hopes to create a new legend, one that will balance his own personal demons with a deeper understanding of his place within the world. Along the way, he must confront the failures of his past and come to terms with the fact that even the greatest heroes can fall from greatness.\"",
+  "overlay_text": "Another heroic failure.",
+  "caption_hook": "When you've slayed the Minotaur but still can't adult",
+  "post_body": "Because even demigods need to pay bills and do laundry sometimes. It's a real mythological struggle.",
+  "hashtags": [
+    "#demigodproblems",
+    "#herostruggle"
+  ],
+  "first_comment": "",
+  "style_label": "relatable_modern_pain",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "painful_relatability",
+  "target_outcome": "share",
+  "scene_anchor": "Theseus' worn leather armor and troubled expression",
+  "selection_reason": "This candidate strikes a relatable chord by combining mythological achievements with mundane adulting struggles, making it specific and shareable.",
+  "rejection_reasons": [
+    "forced_slang"
+  ],
+  "instagram_caption": "When you've slayed the Minotaur but still can't adult\n\nBecause even demigods need to pay bills and do laundry sometimes. It's a real mythological struggle.\n\n#demigodproblems #herostruggle",
+  "candidates": [
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": "Another heroic failure.",
+      "caption_hook": "When you've slayed the Minotaur but still can't adult",
+      "post_body": "Because even demigods need to pay bills and do laundry sometimes",
+      "first_comment": "",
+      "hashtags": [
+        "#demigodproblems",
+        "#herostruggle"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "share",
+      "scene_anchor": "Theseus' worn leather armor and troubled expression",
+      "rejection_reasons": [
+        "body_lacks_second_beat",
+        "forced_slang"
+      ]
+    },
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "-1 like",
+      "caption_hook": "When your ex still watches you from Olympus",
+      "post_body": "And they just won't leave you alone",
+      "first_comment": "",
+      "hashtags": [
+        "#goddessprobs",
+        "#theonemorething"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "comment",
+      "scene_anchor": "Athena's knowing gaze in the upper left corner",
+      "rejection_reasons": [
+        "body_lacks_second_beat"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "Fall seven times, stand up eight... and then move to a new city",
+      "caption_hook": "When even the gods can't help you find your purpose",
+      "post_body": "But you keep on trying",
+      "first_comment": "",
+      "hashtags": [
+        "#motivation",
+        "#greekmythology"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "follow",
+      "scene_anchor": "The ruined Parthenon in the background",
+      "rejection_reasons": [
+        "overlay_too_long",
+        "body_lacks_second_beat"
+      ]
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "When they say 'let's take things slow",
+      "caption_hook": "But really mean 'I'm done with you",
+      "post_body": "And then you're left holding a dead tree",
+      "first_comment": "",
+      "hashtags": [
+        "#relationshipgoals",
+        "#demigodproblems"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "save",
+      "scene_anchor": "Theseus' olive branch staff",
+      "rejection_reasons": [
+        "body_lacks_second_beat",
+        "not_myth_specific",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "Next appointment: 'Fate 101",
+      "caption_hook": "When your Oracle appointment gets cancelled due to 'divine scheduling conflicts",
+      "post_body": "But you get a free consultation on your soul instead",
+      "first_comment": "",
+      "hashtags": [
+        "#oracleprobs",
+        "#goddessservice"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "share",
+      "scene_anchor": "The broken olive branch in Athena's hand",
+      "rejection_reasons": [
+        "body_lacks_second_beat",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "one_liner_memes",
+      "overlay_text": "When you're trying to save the world but your phone died at 2%",
+      "caption_hook": "Because even heroes need their daily dose of TikTok",
+      "post_body": "And then you miss the existential crisis notification",
+      "first_comment": "",
+      "hashtags": [
+        "#demigodproblems",
+        "#greekmythologymemes"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "comment",
+      "scene_anchor": "Theseus' phone in his hand, displaying a 'low battery' warning",
+      "rejection_reasons": [
+        "overlay_too_long",
+        "body_lacks_second_beat",
+        "not_myth_specific"
+      ]
+    }
+  ],
+  "image_path": "images/20260419_124838_Another_heroic_failure..png",
+  "audio_path": "audio/reel_clip_edit_Adele - rumor has it (heim edit) mixdown.wav",
+  "video_path": "videos/20260419_124838_Another_heroic_failure..mp4",
+  "generated_at": "20260419_124838"
+}

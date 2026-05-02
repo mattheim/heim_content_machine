@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import prompt_gen
+from prompt_pipeline.captions import generator as caption_generator
 from performance_feedback import build_performance_record, update_performance_record
 
 
@@ -21,10 +22,58 @@ def test_extract_json_payload_reads_json_from_code_fence():
     assert payload["candidates"][0]["style_label"] == "dramatic_prophecy"
 
 
+def test_extract_json_payload_reads_prefaced_json_response():
+    raw = """Here are the 6 caption candidates:
+
+    {
+      "candidates": [
+        {
+          "style_label": "friend_send",
+          "caption_archetype": "friend_send",
+          "archetype_reason": "Send this to anyone who has tried to fix a clockwork owl.",
+          "content_pillar": "relatable_modern_pain",
+          "comedic_mechanism": "painful_relatability",
+          "target_outcome": "share",
+          "scene_anchor": "clockwork owl",
+          "overlay_text": "Athena saw the repair bill",
+          "caption_hook": "Athena saw the repair bill.",
+          "post_body": "Wisdom still does not cover parts and labor.",
+          "share_cta": "Send this to the friend who fixes one thing and breaks three.",
+          "hashtags": ["#athena", "#greekmyth"],
+          "first_comment": "The owl needs a union."
+        }
+      ]
+    }
+
+    Hope these help."""
+
+    payload = prompt_gen._extract_json_payload(raw)
+
+    assert payload["candidates"][0]["scene_anchor"] == "clockwork owl"
+
+
+def test_extract_json_payload_recovers_trailing_commas():
+    raw = """
+    {
+      "candidates": [
+        {
+          "style_label": "oracle_warning",
+        }
+      ],
+    }
+    """
+
+    payload = prompt_gen._extract_json_payload(raw)
+
+    assert payload["candidates"][0]["style_label"] == "oracle_warning"
+
+
 def test_normalize_candidate_cleans_lengths_and_hashtags():
     normalized = prompt_gen._normalize_candidate(
         {
             "style_label": "  divine_chaos  ",
+            "caption_archetype": " petty_god ",
+            "archetype_reason": " Athena is judging a mortal habit. ",
             "content_pillar": " petty_god_behavior ",
             "comedic_mechanism": " deadpan ",
             "target_outcome": " SHARE ",
@@ -40,6 +89,8 @@ def test_normalize_candidate_cleans_lengths_and_hashtags():
     )
 
     assert normalized["style_label"] == "divine_chaos"
+    assert normalized["caption_archetype"] == "petty_god"
+    assert normalized["archetype_reason"] == "Athena is judging a mortal habit."
     assert normalized["overlay_text"] == "Athena saw your browser tabs"
     assert normalized["caption_hook"] == "Athena saw your browser tabs again."
     assert normalized["post_body"] == "She is not mad, just deeply disappointed."
@@ -70,6 +121,8 @@ def test_generate_content_package_returns_expected_fields(monkeypatch):
         lambda messages, model=None: [
             {
                 "style_label": "petty_god",
+                "caption_archetype": "friend_send",
+                "archetype_reason": "This is built for sending to a group chat chaos friend.",
                 "content_pillar": "petty_god_behavior",
                 "comedic_mechanism": "painful_relatability",
                 "target_outcome": "share",
@@ -123,8 +176,12 @@ def test_generate_content_package_returns_expected_fields(monkeypatch):
     assert package["comedic_mechanism"] == "painful_relatability"
     assert package["target_outcome"] == "share"
     assert package["scene_anchor"] == "group chat"
+    assert package["caption_archetype"] == "friend_send"
+    assert package["archetype_reason"] == "This is built for sending to a group chat chaos friend."
     assert package["hook_style"] == "group_chat_send"
     assert package["share_cta"] == "Send this to the friend who starts chaos then disappears."
+    assert package["caption_scores"]["overall"] > 0
+    assert package["judge_notes"]
     assert len(package["candidates"]) == 1
     assert len(package["hook_variants"]) == 1
 
@@ -135,6 +192,8 @@ def test_gen_caption_candidates_normalizes_model_response(monkeypatch):
       "candidates": [
         {
           "style_label": " petty_god ",
+          "caption_archetype": "petty_god",
+          "archetype_reason": "Zeus overreacts to one attractive mortal.",
           "content_pillar": "petty_god_behavior",
           "comedic_mechanism": "savage_observational_humor",
           "target_outcome": "share",
@@ -149,22 +208,88 @@ def test_gen_caption_candidates_normalizes_model_response(monkeypatch):
     }
     """
 
-    monkeypatch.setattr(prompt_gen, "chat_step", lambda messages, system, user, model=None: raw_json)
+    monkeypatch.setattr(caption_generator, "chat_step", lambda messages, system, user, model=None: raw_json)
 
     candidates = prompt_gen.gen_caption_candidates(messages=[])
 
     assert len(candidates) == 1
     assert candidates[0]["style_label"] == "petty_god"
+    assert candidates[0]["caption_archetype"] == "petty_god"
+    assert candidates[0]["archetype_reason"] == "Zeus overreacts to one attractive mortal."
     assert candidates[0]["overlay_text"] == "Zeus saw one attractive mortal"
     assert candidates[0]["hashtags"] == ["#greekmyth", "#zeus"]
     assert candidates[0]["target_outcome"] == "share"
     assert candidates[0]["rejection_reasons"] == []
+    assert candidates[0]["caption_scores"]["overall"] > 0
+    assert candidates[0]["judge_notes"]
+
+
+def test_caption_judge_scores_field_specific_strengths():
+    strong = prompt_gen._judge_caption_candidate(
+        {
+            "style_label": "oracle_send",
+            "caption_archetype": "oracle_warning",
+            "archetype_reason": "The joke turns on ignoring the warning.",
+            "content_pillar": "oracle_office_humor",
+            "comedic_mechanism": "deadpan",
+            "target_outcome": "share",
+            "scene_anchor": "oracle printer",
+            "overlay_text": "Oracle jammed the printer",
+            "caption_hook": "The oracle jammed the printer again.",
+            "post_body": "Fate still wants that report by noon.",
+            "share_cta": "Send this to the friend who treats warnings like suggestions.",
+            "hashtags": ["#oracle", "#greekmyth"],
+            "first_comment": "The fates need toner.",
+        }
+    )
+    weak = prompt_gen._judge_caption_candidate(
+        {
+            "style_label": "generic",
+            "caption_archetype": "friend_send",
+            "archetype_reason": "",
+            "content_pillar": "petty_god_behavior",
+            "comedic_mechanism": "deadpan",
+            "target_outcome": "comment",
+            "scene_anchor": "",
+            "overlay_text": "Main character energy only forever",
+            "caption_hook": "Main character energy only forever and ever.",
+            "post_body": "This is about mythology and basically the joke is that gods are dramatic.",
+            "share_cta": "Drop a comment and link in bio.",
+            "hashtags": ["#greekmyth"],
+            "first_comment": "",
+        }
+    )
+
+    assert strong["caption_scores"]["overall"] > weak["caption_scores"]["overall"]
+    assert strong["caption_scores"]["two_second_clarity"] >= 4
+    assert strong["caption_scores"]["visual_specificity"] >= 4
+    assert strong["caption_scores"]["sendability"] >= 4
+    assert strong["caption_scores"]["archetype_fit"] >= 4
+    assert weak["caption_scores"]["cta_naturalness"] < strong["caption_scores"]["cta_naturalness"]
+
+
+def test_normalize_candidate_defaults_unknown_archetype():
+    normalized = prompt_gen._normalize_candidate(
+        {
+            "style_label": "unknown_format",
+            "caption_archetype": "mystery_box",
+            "overlay_text": "Hermes saw the memo",
+            "caption_hook": "Hermes saw the memo first.",
+            "post_body": "Now fate has a paper trail.",
+            "hashtags": ["#hermes"],
+        },
+        fallback_style="fallback_style",
+    )
+
+    assert normalized["caption_archetype"] == "friend_send"
 
 
 def test_select_best_content_builds_instagram_caption(monkeypatch):
     selection_json = """
     {
       "style_label": "oracle_dunk",
+      "caption_archetype": "oracle_warning",
+      "archetype_reason": "The warning was clear and ignored.",
       "content_pillar": "oracle_office_humor",
       "comedic_mechanism": "deadpan",
       "target_outcome": "save",
@@ -179,7 +304,7 @@ def test_select_best_content_builds_instagram_caption(monkeypatch):
     }
     """
 
-    monkeypatch.setattr(prompt_gen, "chat_step", lambda messages, system, user, model=None: selection_json)
+    monkeypatch.setattr(caption_generator, "chat_step", lambda messages, system, user, model=None: selection_json)
 
     selected = prompt_gen.select_best_content(
         messages=[],
@@ -200,6 +325,8 @@ def test_select_best_content_builds_instagram_caption(monkeypatch):
     )
 
     assert selected["style_label"] == "oracle_dunk"
+    assert selected["caption_archetype"] == "oracle_warning"
+    assert selected["archetype_reason"] == "The warning was clear and ignored."
     assert selected["selection_reason"] == "Strongest mix of clarity and humor."
     assert selected["target_outcome"] == "save"
     assert selected["share_cta"] == "Send this to the friend who treats warnings like suggestions."
@@ -264,6 +391,7 @@ def test_filter_candidates_prefers_approved_candidates():
     assert len(filtered) == 1
     assert filtered[0]["style_label"] == "oracle_dunk"
     assert filtered[0]["rejection_reasons"] == []
+    assert filtered[0]["caption_scores"]["overall"] > 0
 
 
 def test_compose_instagram_caption_formats_body_and_hashtags():
@@ -323,7 +451,7 @@ def test_gen_hook_variants_normalizes_model_response(monkeypatch):
     }
     """
 
-    monkeypatch.setattr(prompt_gen, "chat_step", lambda messages, system, user, model=None: raw_json)
+    monkeypatch.setattr(caption_generator, "chat_step", lambda messages, system, user, model=None: raw_json)
 
     hooks = prompt_gen.gen_hook_variants(messages=[], selected={"caption_hook": "backup"})
 

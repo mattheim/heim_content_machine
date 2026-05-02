@@ -1,0 +1,237 @@
+{
+  "theme": "\"ECHOES OF TROY: The Fading Light of Aphrodite's Flame - A mythic realm where the gods have grown weary, their powers waning as they navigate the mortal world with increasing irrelevance. Amidst this backdrop, a young demigod named Euphemus must master his own unpredictable fate, guided by the whispers of forgotten prophecies and the enigmatic smile of Aphrodite's fading presence.\"",
+  "visual_concept": "\"Visualize a haunting, sunset-lit scene in ancient Troy: crumbling city walls stretch towards a fiery horizon, while in the foreground, Euphemus stands alone, silhouetted against the warm glow. His eyes are downcast, lost in thought, as he grasps a worn wooden scroll with tattered edges, upon which Aphrodite's fading flames seem to dance. The air is thick with smoke from distant wars, and the once-vibrant colors of the city have dulled, reflecting the gods' own dwindling powers. In the background, subtle hints of forgotten prophecies whispered by ancient sages - crumbling stone pedestals, cryptic frescoes, and shattered mirrors reflecting the fading light.\"",
+  "character_context": "\"Euphemus, a 25-year-old demigod son of Aphrodite and a minor sea god, stands at the precipice of his destiny. His eyes, once bright with hope, now burn with an unquenchable fire as he struggles to reconcile his divine heritage with the harsh realities of mortal life. Orphaned at a young age, Euphemus has grown up amidst the ravages of war-torn Troy, eking out a meager existence on the city's fringes. Despite his parentage, he feels an uncanny sense of detachment from both the divine and human worlds. With Aphrodite's influence waning, Euphemus is left to navigate the treacherous landscape of fate, driven by an insatiable hunger for purpose and connection.\"",
+  "overlay_text": "Aphrodite's flames aren't my only debt",
+  "caption_hook": "When your gods have better credit scores than you",
+  "post_body": "Aphrodite's flames may be fading, but my student loans aren't.",
+  "share_cta": "Send this to the friend who's drowning in student loans",
+  "hashtags": [
+    "#demigodprobs",
+    "#godparenting"
+  ],
+  "first_comment": "Same, but instead of a prophecy, I got stuck with a 401(k) plan",
+  "hook_style": "short_snake_case_style",
+  "hook_score": 12.5,
+  "hook_score_reason": "This hook is short, memorable, and ties in with the overlay text. The joke is relatable to modern pain, and the CTA encourages sharing.",
+  "hook_generation_error": "",
+  "style_label": "relatable_modern_pain",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "painful_relatability",
+  "target_outcome": "share",
+  "scene_anchor": "Euphemus' downcast eyes",
+  "selection_reason": "This candidate has a strong hook that resonates with relatable modern pain, and the overlay text is concise. The scene anchor adds a specific visual detail that ties in with Euphem",
+  "rejection_reasons": [
+    "scene_anchor_not_used"
+  ],
+  "instagram_caption": "When your gods have better credit scores than you\n\nAphrodite's flames may be fading, but my student loans aren't.\n\nSend this to the friend who's drowning in student loans\n\n#demigodprobs #godparenting",
+  "candidates": [
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": "Lowkey feels like I'm living my own prophecy",
+      "caption_hook": "When your parents are gods, but you're still stuck in a dead-end job",
+      "post_body": "Aphrodite's flames may be fading, but my student loans aren't.",
+      "share_cta": "Send this to the friend who's struggling with their own 'fated' life choices",
+      "first_comment": "Same, but instead of a prophecy, I got stuck with a 401(k) plan",
+      "hashtags": [
+        "#demigodprobs",
+        "#godparenting"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "share",
+      "scene_anchor": "Euphemus' downcast eyes",
+      "rejection_reasons": [
+        "hook_too_long",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "Godly Drama Alert!",
+      "caption_hook": "When your mom is Aphrodite, but she still can't get her Instagram bio updated",
+      "post_body": "Apparently, even the gods have their own social media drama now.",
+      "share_cta": "Save this for when you need a reminder that even the divine has its own problems",
+      "first_comment": "Just had to intervene in a war between Zeus' and Poseidon's followers on Twitter",
+      "hashtags": [
+        "#godsoftheinternet",
+        "#goddrama"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "save",
+      "scene_anchor": "Aphrodite's fading flames on the scroll",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "Your fate is written...",
+      "caption_hook": "But it's not too late to rewrite your own story",
+      "post_body": "Inspiration from a demigod who knows a thing or two about uncertain futures.",
+      "share_cta": "Follow this account for more myth-inspired motivation and memes",
+      "first_comment": "Reminds me to take control of my own destiny, instead of waiting for the gods' intervention",
+      "hashtags": [
+        "#demigodmotivation",
+        "#fatememes"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "follow",
+      "scene_anchor": "The city walls of Troy in the background",
+      "rejection_reasons": [
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "Prophecy Problems: When your partner's fate is tied to yours",
+      "caption_hook": "When you're trying to navigate a relationship, but the gods have other plans",
+      "post_body": "No wonder our relationship feels like a never-ending prophecy of drama and heartbreak.",
+      "share_cta": "Comment below with your own prophecy problems in relationships!",
+      "first_comment": "Same, but instead of a scroll, I got stuck with a messy ex's social media notifications",
+      "hashtags": [
+        "#prophecyproblems",
+        "#relationshipmemes"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "comment",
+      "scene_anchor": "Euphemus holding the worn scroll",
+      "rejection_reasons": [
+        "hook_too_long",
+        "overlay_too_long"
+      ]
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "Fate Update: You're still stuck in Troy.",
+      "caption_hook": "When you visit the Oracle, but they just give you more questions than answers",
+      "post_body": "I asked for clarity on my future, but all I got was a bunch of vague frescoes.",
+      "share_cta": "Send this to the friend who's tired of getting 'fate updates' from the Oracle",
+      "first_comment": "Just had to go back for a re-fate-update, and it turns out I'm still stuck in ancient Greece",
+      "hashtags": [
+        "#oracleoffice",
+        "#fatememes"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "share",
+      "scene_anchor": "The cryptic frescoes in the background",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": "Adulting, demigod edition: when your parents are gods",
+      "caption_hook": "When you're trying to adult, but your mom is Aphrodite and she still won't let you pay rent on time",
+      "post_body": "No wonder I'm struggling with my own 'prophecies' – student loans, career anxiety, the usual.",
+      "share_cta": "Comment below with your own adulting struggles as a demigod or mortal!",
+      "first_comment": "Same, but instead of Aphrodite, my mom is actually just really bad at budgeting",
+      "hashtags": [
+        "#demigodadulting",
+        "#fatememes"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "comment",
+      "scene_anchor": "Euphemus' worn-out expression",
+      "rejection_reasons": [
+        "hook_too_long",
+        "scene_anchor_not_used"
+      ]
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Aphrodite's flames aren't my only debt",
+      "caption_hook": "When your gods have better credit scores than you",
+      "share_cta": "Send this to the friend who's drowning in student loans",
+      "score_reason": "This hook is short, memorable, and ties in with the overlay text. The joke is relatable to modern pain, and the CTA encourages sharing."
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods don't mean 'eternal love",
+      "caption_hook": "The prophecy was actually just a Tinder bio",
+      "share_cta": "Send this to the friend who's been ghosted by their crush",
+      "score_reason": "This hook is short and funny, and ties in with the overlay text. The joke is relatable to modern pain, and the CTA encourages sharing."
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When your parents are gods, but you're not a legend",
+      "caption_hook": "Living my best life... according to Google Maps",
+      "share_cta": "Send this to the friend who's lost their way in life",
+      "score_reason": "This hook is short and funny, and ties in with the overlay text. The joke is relatable to modern pain, and the CTA encourages sharing."
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods don't do their taxes",
+      "caption_hook": "Filing my own prophecy as a 1099",
+      "share_cta": "Send this to the friend who's struggling with tax season",
+      "score_reason": "This hook is short and funny, and ties in with the overlay text. The joke is relatable to modern pain, and the CTA encourages sharing."
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When your parents are gods, but you're not a hero",
+      "caption_hook": "Saving the world one paperclip at a time",
+      "share_cta": "Send this to the friend who's feeling underappreciated",
+      "score_reason": "This hook is short and funny, and ties in with the overlay text. The joke is relatable to modern pain, and the CTA encourages sharing."
+    }
+  ],
+  "image_path": "images/20260428_120040_Aphrodites_flames_arent_my_o.png",
+  "audio_path": "audio/reel_clip_edit_Heim - one on one time.wav",
+  "video_path": "videos/20260428_120040_Aphrodites_flames_arent_my_o.mp4",
+  "generated_at": "20260428_120040",
+  "duration": 12.0,
+  "performance": {
+    "views": 88,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 82,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 0,
+    "posted_at": "2026-04-28T12:03:07",
+    "duration": 12.0,
+    "hook_style": "short_snake_case_style",
+    "content_pillar": "relatable_modern_pain",
+    "comedic_mechanism": "painful_relatability",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.0,
+    "updated_at": "2026-05-02T23:13:36Z"
+  },
+  "instagram_post_info": {
+    "id": "18018954485667226",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMqOYxHMjJSxmkJJDc_aiyMH4IPLjkLtMt8-DNk7iNMz8gIkr0hd3wuTz9bZmiCFF7hzw8U3WaX5BaLNoLNWUOHPiuYBWsxgbe05kg.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=9rjQp0i5WisQ7kNvwFFlKWm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDY5ODI0NDQ0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6b3e50f3be1aedd7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQTQ4NzU0Qzk4NUJGMjFDMzA2NTY2NjUzNjdDRDQ5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U2NDBFODE4MkU2MzA5Nzc0OTJBQkNDNERDQ0U0N0I4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8u8j5x5PPPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af6veuA_1W_qaErqVK14iVkDFRLAZzE5u9w-W3Ty40lpBA&oe=69F8537C",
+    "caption": "When your gods have better credit scores than you\n\nAphrodite's flames may be fading, but my student loans aren't.\n\nSend this to the friend who's drowning in student loans\n\n#demigodprobs #godparenting",
+    "permalink": "https://www.instagram.com/reel/DXrms-bCpJ7/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.71878-15/681978045_999474819314736_2760084984018234540_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CJ8XvZdaEj0Q7kNvwEgsuvG&_nc_oc=Adq0MS7ldFOfH6zhSqVsYsXrEG8xUXVs8kYXSZnQZ_Hh6xXe3ddRGtKQyVwnoIJOD7Q&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQHy_qlGXOdIZ6E_SSYzSYFFbA4_yPCIFOHugDpFkXKieyRUSg0bZIn79WGcbfDwxd3SYX2ht50wAQ&oh=00_Af55zVbOauNnMPg6M7YyZEjalPMRcAJfh5vKbSbtAm4aQA&oe=69FC4C3E",
+    "timestamp": "2026-04-28T16:03:00+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "When your gods have better credit scores than you\n\nAphrodite's flames may be fading, but my student loans aren't.\n\nSend this to the friend who's drowning in student loans\n\n#demigodprobs #godparenting",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:13:36Z",
+    "raw_metrics": {
+      "views": 88,
+      "reach": 82,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0
+    }
+  }
+}

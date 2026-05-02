@@ -1,0 +1,235 @@
+{
+  "theme": "\"In a world where the Fates have grown tired of their own prophecies, a mortal hero emerges to challenge the Oracle's latest decree: 'The Weaver shall unravel the very fabric of fate itself.' Set in ancient Delphi, amidst the crumbling temples and whispered secrets of the gods, our protagonist must navigate the treacherous landscape of divine politics, prophesied doom, and their own uncertain destiny.\"",
+  "visual_concept": "\"Visualize an atmospheric, moody landscape of ancient Delphi at twilight. The Oracle's temple looms in the background, its crumbling columns shrouded in a veil of mist. In the foreground, our mortal hero stands atop a worn stone pedestal, their eyes fixed intently on the Fates' sacred Loom. The loom itself glows with an ethereal light, as if the very fabric of fate is beginning to unravel. To one side, a figure shrouded in shadows whispers secrets to the Oracle's statue; to the other, a pair of winged horses, symbols of fate and prophecy, gallop towards the horizon, their manes and tails flowing like mist. The sky above is a deep, foreboding indigo, with stars beginning to twinkle like diamonds scattered across the velvet expanse.\"",
+  "character_context": "\"Meet Kaelin 'The Unraveler' of Delphi, a 25-year-old mortal with an uncanny ability to see the threads of fate that bind gods and mortals alike. Born into a family of humble priests, Kaelin has always felt an otherworldly connection to the Oracle's temple, where they would often sneak in at night to watch the Fates weave their tapestries. Haunted by prophetic dreams and plagued by an unshakeable sense of destiny, Kaelin is both drawn to and terrified by the Oracle's latest decree: that they shall unravel the very fabric of fate itself. With a troubled past and a penchant for defying the gods, Kaelin stands poised on the precipice of greatness - or catastrophe - as they prepare to face their own uncertain destiny.\"",
+  "overlay_text": "Prophetic fail alert.",
+  "caption_hook": "The Oracle just auto-generated a bad email.",
+  "post_body": "Because that's exactly what I wanted to do with my life - defy the gods.",
+  "share_cta": "Send this to your friend who's always asking for fortune cookies",
+  "hashtags": [
+    "#oracleprobs",
+    "#fatefail"
+  ],
+  "first_comment": "",
+  "hook_style": "short_snake_case_style",
+  "hook_score": 9.75,
+  "hook_score_reason": "Slightly shorter and more concise, still conveys the idea of a prophecy gone wrong",
+  "hook_generation_error": "",
+  "style_label": "deadpan",
+  "content_pillar": "oracle_office_humor",
+  "comedic_mechanism": "deadpan",
+  "target_outcome": "share",
+  "scene_anchor": "the Oracle's statue whispering to a figure in the shadows",
+  "selection_reason": "Clear, concise hook that adds humor to a relatable situation and invites sharing with friends.",
+  "rejection_reasons": [
+    "hook_too_long"
+  ],
+  "instagram_caption": "The Oracle just auto-generated a bad email.\n\nBecause that's exactly what I wanted to do with my life - defy the gods.\n\nSend this to your friend who's always asking for fortune cookies\n\n#oracleprobs #fatefail",
+  "candidates": [
+    {
+      "style_label": "deadpan",
+      "overlay_text": "Prophecy fail.",
+      "caption_hook": "The Oracle just sent me an email saying 'unravel the fabric of fate'.",
+      "post_body": "Because that's exactly what I wanted to do with my life - defy the gods.",
+      "share_cta": "Send this to the friend who's always asking for fortune cookies",
+      "first_comment": "",
+      "hashtags": [
+        "#oracleprobs",
+        "#fatefail"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "share",
+      "scene_anchor": "the Oracle's statue whispering to a figure in the shadows",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": ":/",
+      "caption_hook": "When you finally get a glimpse of your life's purpose and it looks exactly like your therapist said",
+      "post_body": "I mean, I knew I was destined for greatness... but this is just too much.",
+      "share_cta": "Save this for the next time someone asks 'what's your passion?",
+      "first_comment": "",
+      "hashtags": [
+        "#fatestruggles",
+        "#destinydrama"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "save",
+      "scene_anchor": "Kaelin's anxious expression as they gaze at the loom",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "Horsing around.",
+      "caption_hook": "Zeus just sent me a strongly-worded tweet about how I'm not living up to my 'god-given potential",
+      "post_body": "I mean, I was trying to live my best life... but it turns out that's just code for 'you're not doing enough",
+      "share_cta": "Comment below with your most epic clapback to a divine tweet!",
+      "first_comment": "",
+      "hashtags": [
+        "#godsontheinternets",
+        "#pettygods"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "comment",
+      "scene_anchor": "the winged horses galloping towards the horizon",
+      "rejection_reasons": [
+        "hook_too_long",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": ":)",
+      "caption_hook": "When the Fates say 'you're destined for greatness' and you realize it's just a metaphor for being slowly unrav",
+      "post_body": "Just remember: even in the face of cosmic uncertainty, you can still choose to weave your own tapestry.",
+      "share_cta": "Follow me for daily doses of mortal angst and mythological musings",
+      "first_comment": "",
+      "hashtags": [
+        "#fatequotes",
+        "#motivation"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "follow",
+      "scene_anchor": "the Loom glowing with an ethereal light",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "-3.5/10",
+      "caption_hook": "When you're trying to build a relationship with your destiny and it's just not reciprocating",
+      "post_body": "I mean, I know the Fates are supposed to be all-knowing... but honestly, they have no idea what they're doing.",
+      "share_cta": "Send this to the friend who's been ghosted by their own life goals",
+      "first_comment": "",
+      "hashtags": [
+        "#fatefailures",
+        "#relationshipgoals"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "share",
+      "scene_anchor": "Kaelin standing on the pedestal, gazing up at the loom",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "one_liner_jokes",
+      "overlay_text": ":/",
+      "caption_hook": "Why did I get a prophetic dream about Netflix? Because they're trying to binge-watch my life too",
+      "post_body": "Just me, trying to navigate the depths of fate while also keeping up with my watchlist.",
+      "share_cta": "Comment below with your most epic binge-watching fails!",
+      "first_comment": "",
+      "hashtags": [
+        "#fateandflix",
+        "#propheticproblems"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "comment",
+      "scene_anchor": "the Oracle's temple in the background, shrouded in mist",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Prophetic fail alert.",
+      "caption_hook": "The Oracle just auto-generated a bad email.",
+      "share_cta": "Send this to your friend who's always asking for fortune cookies",
+      "score_reason": "Slightly shorter and more concise, still conveys the idea of a prophecy gone wrong"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Got fate-ness?",
+      "caption_hook": "The Oracle just sent me an email saying 'unravel the fabric of fate'... again.",
+      "share_cta": "Send this to your friend who's always asking for fortune cookies",
+      "score_reason": "Playful and lighthearted, uses a common internet slang"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Fate's worst email ever.",
+      "caption_hook": "The Oracle just sent me an email saying 'unravel the fabric of fate'... no thanks.",
+      "share_cta": "Send this to your friend who's always asking for fortune cookies",
+      "score_reason": "Concise and humorous, still conveys the idea of a prophecy gone wrong"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Prophetic spam alert.",
+      "caption_hook": "The Oracle just sent me an email saying 'unravel the fabric of fate'... do I need to respond?",
+      "share_cta": "Send this to your friend who's always asking for fortune cookies",
+      "score_reason": "Slightly more playful and humorous, still conveys the idea of a prophecy gone wrong"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Fate's got jokes.",
+      "caption_hook": "The Oracle just sent me an email saying 'unravel the fabric of fate'... I guess that's what they mean by 'fate",
+      "share_cta": "Send this to your friend who's always asking for fortune cookies",
+      "score_reason": "Playful and lighthearted, still conveys the idea of a prophecy gone wrong"
+    }
+  ],
+  "image_path": "images/20260426_012440_Prophetic_fail_alert..png",
+  "audio_path": "audio/reel_clip_edit_Heim - one on one timev2.wav",
+  "video_path": "videos/20260426_012440_Prophetic_fail_alert..mp4",
+  "generated_at": "20260426_012440",
+  "duration": 12.0,
+  "performance": {
+    "views": 29,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 19,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 1,
+    "posted_at": "2026-04-26T01:27:05",
+    "duration": 12.0,
+    "hook_style": "short_snake_case_style",
+    "content_pillar": "oracle_office_humor",
+    "comedic_mechanism": "deadpan",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.0,
+    "updated_at": "2026-05-02T23:13:19Z"
+  },
+  "instagram_post_info": {
+    "id": "17989572485793253",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQODULerYi0g5Fvdt6NUaMcjtbmAoXf1uK_OCFbUyorZAw0JumgM8FcDaPoTVNJu1sBYgNEWr0o8r6rDZZ274Dj4_0ut9LgptAx9ZkI.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=uhiNz2t2l3YQ7kNvwFs56eT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDY1NDE3NTk0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ec6cf77088e80e18&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMjQ5NkExOTUzNDczMzNGRUE3ODU0RENDMTUyNjVBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM2NEMzQUY5NTEwRDhEOUY1NzA5MURFQzA1RDc4NjlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa85szL9PnOPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af7vSaUhEZFXFJDh3Xe4nK0wDq-8_jeUnyqb90kO4F_3wA&oe=69F866D3",
+    "caption": "The Oracle just auto-generated a bad email.\n\nBecause that's exactly what I wanted to do with my life - defy the gods.\n\nSend this to your friend who's always asking for fortune cookies\n\n#oracleprobs #fatefail",
+    "permalink": "https://www.instagram.com/reel/DXlUUx3CgI9/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/670975968_840967439051397_5223544142050942408_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=k-Am2dhHGnUQ7kNvwHmv8Fm&_nc_oc=AdpBXJ2vhtWB1Ap-y2H0gBt_7uNYd9Hqh9gBMKRGoV69ey2yTP1Z-CPll0IkaxDaCsU&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQFyEbp1jTu8wBJKPyqbA7xiXwUVnmdFrIdPZoE_XLY_qfT4doupkvEi2aiPInjNJdRcge9oA4VBmA&oh=00_Af6wWUJUD2dI-7wohuKEaG9Kk-zrzip9LyOfjhJdPd6v5A&oe=69FC5C26",
+    "timestamp": "2026-04-26T05:26:57+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "The Oracle just auto-generated a bad email.\n\nBecause that's exactly what I wanted to do with my life - defy the gods.\n\nSend this to your friend who's always asking for fortune cookies\n\n#oracleprobs #fatefail",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:13:19Z",
+    "raw_metrics": {
+      "views": 29,
+      "reach": 19,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1
+    }
+  }
+}

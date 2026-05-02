@@ -1,0 +1,53 @@
+{
+  "theme": "\"In a world where the Olympian gods have forgotten their divine duties, a mortal demigod, Lykos, must navigate the treacherous landscape of ancient Greece to prevent the impending catastrophe that will shatter the balance of the cosmos.\n\nThe once-mighty rivers of Styx and Lethe now flow with the tears of the forgotten, as the Fates weave a tapestry of chaos. The Oracle of Delphi remains silent, her prophecies muffled by the whispers of the gods' neglect.\n\nIn this dark era, Lykos must confront his own fate, which is inextricably linked to that of the world. With the aid of his loyal companion, a wisecracking, shapeshifting satyr named Pappos, he embarks on a perilous quest to reunite the gods with their forgotten glory and restore balance to the universe.\n\nBut as Lykos delves deeper into the heart of mythic power, he begins to realize that even the greatest heroes can be mere pawns in a game controlled by forces beyond their comprehension. Will he be able to overcome his own limitations and forge a new path for himself, or will he succumb to the same destructive patterns that have doomed so many others before him?\"",
+  "visual_concept": "\"Visual Concept: 'The Forgotten Balance'\n\nKey Art:\n\n* Lykos stands at the edge of a ravaged landscape, with the ruins of an ancient temple crumbling behind him.\n* His back is turned to the viewer, as he gazes out towards the horizon, where the sun sets over a sky choked with the smoke of forgotten wars.\n* Pappos, the satyr, sits at Lykos' feet, playing a mournful tune on his pipes, as if trying to summon the gods from their slumber.\n* In the foreground, a massive stone statue of Athena lies shattered, its fragments strewn about like the discarded remnants of a once-great civilization.\n\nColor Palette:\n* Muted earth tones: umber, sienna, and umber brown, evoking the dry, cracked landscape of ancient Greece.\n* Deep blues and indigos to represent the forgotten rivers and the darkness gathering at the edges of reality.\n* Golden highlights on Lykos' armor and Pappos' fur to hint at the remnants of a bygone era's glory.\n\nComposition:\n* The camera angles down upon Lykos, emphasizing his height and imposing figure amidst the desolate landscape.\n* Pappos is positioned in a way that draws the viewer's eye downwards, towards the broken statue, symbolizing the fragments of a lost world.\n* The horizon line is deliberately placed low, creating a sense of depth and foreboding.\n\nStyle:\n* Inspired by the works of ancient Greek vase painters, with intricate details and ornate patterns adorning Lykos' armor and Pappos' pipes.\n* A mix of traditional media: oil paint, watercolor, and charcoal to achieve an otherworldly, dreamlike quality.\"",
+  "character_context": "\"Character Context:\n\nLykos (The Demigod):\n\n* Age: 25\n* Height: 6'2\"\n* Build: Muscular and athletic, with a chiseled physique honed from years of combat training.\n* Eyes: Piercing blue, with an intensity that can be unnerving to those who don't know him.\n* Hair: Dark brown, often worn in a practical yet stylish manner that's more warrior than god-king.\n* Personality: Brooding and introspective, Lykos is haunted by the weight of his own destiny. He's fiercely loyal to those he cares about, but his stubbornness can make him come across as aloof or even arrogant.\n* Background: Born to a mortal mother and a god-father (Ares), Lykos was raised in secret among the mountains of ancient Greece. He's been trained in the art of war by his father and has proven himself to be one of the most skilled warriors of his generation.\n\nPappos (The Satyr):\n\n* Age: Ageless, but appears to be around 30\n* Height: 5'8\"\n* Build: Stocky and compact, with a wiry physique that belies his surprising agility.\n* Eyes: Warm brown, twinkling with mischief and a deep understanding of the world's workings.\n* Hair: Wild tangles of curly brown hair, often adorned with flowers or other tokens of his love for nature.\n* Personality: Wise-cracking and quick-witted, Pappos is the perfect foil to Lykos' brooding nature. He's a shapeshifter, able to take on various forms at will, but he often prefers to stick to his satyr shape.\n* Background: A member of the ancient tribe of satyrs who once served as attendants and messengers for the gods, Pappos has seen the rise and fall of civilizations. He's a master of the natural world and is fiercely protective of Lykos, whom he sees as a lost nephew.\"",
+  "overlay_text": "divine disappointment",
+  "caption_hook": "When gods forget their duties, we're left with the mess.",
+  "post_body": "Like, literally, Athena's still waiting on that olive branch. Talk about divine disappointment.",
+  "hashtags": [
+    "#greekmythology",
+    "#pettygods"
+  ],
+  "first_comment": "",
+  "style_label": "petty_god_behavior",
+  "content_pillar": "petty_god_behavior",
+  "comedic_mechanism": "deadpan",
+  "target_outcome": "comment",
+  "scene_anchor": "Athena's shattered statue in the background",
+  "selection_reason": "This caption feels image-specific and uses deadpan humor to make a clever point about petty gods, which should resonate with mythology fans.",
+  "rejection_reasons": [],
+  "instagram_caption": "When gods forget their duties, we're left with the mess.\n\nLike, literally, Athena's still waiting on that olive branch. Talk about divine disappointment.\n\n#greekmythology #pettygods",
+  "candidates": [
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "divine disappointment",
+      "caption_hook": "Gods: 1, Mortals: 0 (still waiting on that olive branch).",
+      "post_body": "When you finally get a glimpse of the divine and they're just as petty as us.",
+      "first_comment": "",
+      "hashtags": [],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "comment",
+      "scene_anchor": "Athena's shattered statue in the background",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "bromance goals",
+      "caption_hook": "When your partner in crime is literally a god.",
+      "post_body": "Pappos: 'I've got your back.' Me: 'Literally, I have your back.",
+      "first_comment": "",
+      "hashtags": [],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "save",
+      "scene_anchor": "Lykos and Pappos standing back-to-back",
+      "rejection_reasons": []
+    }
+  ],
+  "image_path": "images/20260423_120030_divine_disappointment.png",
+  "audio_path": "audio/reel_clip_edit_heim - to slow v3.wav",
+  "video_path": "videos/20260423_120030_divine_disappointment.mp4",
+  "generated_at": "20260423_120030"
+}

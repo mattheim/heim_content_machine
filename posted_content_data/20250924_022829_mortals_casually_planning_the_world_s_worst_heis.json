@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-09-24T02:28:29+0000",
+  "overlay_text": null,
+  "caption_hook": "mortals casually planning the world’s worst heist 🔥⚡️",
+  "post_body": "mortals casually planning the world’s worst heist 🔥⚡️",
+  "caption": "mortals casually planning the world’s worst heist 🔥⚡️",
+  "instagram_post_info": {
+    "id": "17981525618908865",
+    "caption": "mortals casually planning the world’s worst heist 🔥⚡️",
+    "media_type": "IMAGE",
+    "media_product_type": "FEED",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/552252051_17878599753404446_7629121631177401403_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ukDuCGcG4gUQ7kNvwEBH-K4&_nc_oc=AdofoI_i2YN3nMi9FtURR3G9E22mgJ6jGufFX_cmYjthZKQK5UECBgKwT538dwFBGbQ&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&oh=00_Af4FBf8TDJp1u5u4GV18rsutQrKYU0e2n5OeiTkflFim3g&oe=69FC725F",
+    "permalink": "https://www.instagram.com/p/DO993IvDSJb/",
+    "timestamp": "2025-09-24T02:28:29+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 62,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 7,
+    "watch_time": null,
+    "follows": 0,
+    "total_interactions": 2,
+    "posted_at": "2025-09-24T02:28:29+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.2857142857142857,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.2857142857142857,
+    "updated_at": "2026-05-02T23:10:23Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:10:23Z",
+    "raw_metrics": {
+      "views": 62,
+      "reach": 7,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "follows": 0
+    }
+  }
+}

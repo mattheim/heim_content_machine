@@ -1,0 +1,251 @@
+{
+  "theme": "\"Amidst the labyrinthine courts of Knossos, a mortal weaver, Daedalus' daughter Ariadne, has secretly woven a tapestry foretelling the downfall of Olympus - as Athena's owl watches from the shadows and Dionysus stirs his wine-stained prophetic dreams, will the Fates weave a thread of redemption for their errant gods or forever entwine them in the silken snare of human fate?\"",
+  "visual_concept": "\"Visualize Ariadne standing at a loom amidst the grandeur of Knossos' palace, surrounded by the intricate frescoes and marble columns. Her hands deftly weave a tapestry that unfurls like a living entity, depicting scenes from Greek mythology: Poseidon's trident shattering the land, Athena's owl perched on a crumbling column, Dionysus reclining amidst a haze of wine cups and prophetic smoke.\n\nIn the shadows, a lone figure (Dionysus) stirs in his wine-stained slumber, while in the distance, Olympus' imposing architecture looms, its marble columns etched against a sky that rages with stormy tempests. As Ariadne's fingers dance across her loom, the tapestry begins to unravel, releasing threads of fate that entwine the gods themselves.\n\nIn the upper corners, Olympian deities gaze down upon this mortal weaver: Athena's piercing eyes watch from a marble balcony, while Zeus' stern visage peers out from behind a veil of clouds. The air is alive with an otherworldly energy as the Fates weave their intricate pattern, and the viewer is drawn into the heart of Knossos to behold Ariadne's prophetic tapestry.\"",
+  "character_context": "\"Ariadne, daughter of Daedalus, stands at the center of this mythic tapestry. A mortal weaver with a gift for prophecy, she is driven by both a desire to understand her own fate and a need to warn the gods of their impending doom.\n\nWith each passing day, Ariadne's visions grow more vivid: she sees Poseidon's trident shattering the land, Athena's owl perched on a crumbling column, and Dionysus reclining amidst a haze of wine cups and prophetic smoke. She knows that her tapestry holds the key to saving Olympus from its own destructive tendencies.\n\nYet, as Ariadne weaves, she is torn between loyalty to her mortal heritage and her duty to the gods who have long oppressed humanity. Her heart beats with a mix of love for Theseus, the hero who once freed her from Crete's labyrinthine prison, and fear for the Olympian deities who threaten to destroy everything she holds dear.\n\nAs the threads of fate begin to entwine the gods themselves, Ariadne must confront the weight of her own destiny: will she continue to weave her prophetic tapestry, risking the wrath of Zeus and the other Olympians? Or will she defy their authority and forge a new path for humanity, one that promises redemption and freedom from the gods' tyrannical grasp?\"",
+  "overlay_text": "When Poseidon's wrath hits the beach.",
+  "caption_hook": "One bad review and he's coming for you.",
+  "post_body": "Apparently, his trident is also now a Yelp-styled 1-star rating system?",
+  "share_cta": "Save this when your friend posts a trash review!",
+  "hashtags": [
+    "#greekmythology",
+    "#pettygods"
+  ],
+  "first_comment": "",
+  "caption_archetype": "petty_god",
+  "archetype_reason": "Poseidon's taking one bad beach review personally... again.",
+  "hook_style": "short_snake_case_style",
+  "hook_score": 9.75,
+  "hook_score_reason": "High two_second_clarity score due to clear reference",
+  "caption_scores": {
+    "two_second_clarity": 5.0,
+    "visual_specificity": 5.0,
+    "sendability": 2.0,
+    "myth_accessibility": 3.5,
+    "second_beat_strength": 5.0,
+    "cta_naturalness": 2.25,
+    "archetype_fit": 3.5,
+    "overall": 3.78
+  },
+  "judge_notes": "Needs work on sendability, cta_naturalness.",
+  "hook_generation_error": "",
+  "style_label": "petty_god",
+  "content_pillar": "petty_god_behavior",
+  "comedic_mechanism": "hyper_specific_modern_reference",
+  "target_outcome": "save",
+  "scene_anchor": "The trident shattering the land, with a Yelp-style 1-star rating in the backgrou",
+  "selection_reason": "Strongest candidate with high two_second_clarity, visual_specificity, and sendability scores. Its hook is instantly understandable, and the joke relies on basic mythology knowledge",
+  "rejection_reasons": [],
+  "instagram_caption": "One bad review and he's coming for you.\n\nApparently, his trident is also now a Yelp-styled 1-star rating system?\n\nSave this when your friend posts a trash review!\n\n#greekmythology #pettygods",
+  "candidates": [
+    {
+      "style_label": "petty_god",
+      "caption_archetype": "petty_god",
+      "archetype_reason": "Poseidon's taking one bad beach review personally... again.",
+      "overlay_text": "1/10 would not recommend to mortals",
+      "caption_hook": "Poseidon's review of Crete: '2/5 stars, would not recommend",
+      "post_body": "Apparently, his trident is also now a Yelp-styled 1-star rating system?",
+      "share_cta": "Save this for the next time you want to roast your favorite petty god",
+      "first_comment": "",
+      "hashtags": [
+        "#greekmythology",
+        "#pettygods"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "save",
+      "scene_anchor": "The trident shattering the land, with a Yelp-style 1-star rating in the backgrou",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 5.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 5.0,
+        "cta_naturalness": 4.5,
+        "archetype_fit": 5.0,
+        "overall": 4.87
+      },
+      "judge_notes": "Strongest on two_second_clarity, visual_specificity.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "friend_send",
+      "caption_archetype": "friend_send",
+      "archetype_reason": "Immediately share this prophetic tapestry with your favorite armchair philosopher.",
+      "overlay_text": "Send to your existential crisis buddy",
+      "caption_hook": "I just wove a prophecy that will literally destroy Olympus",
+      "post_body": "And now I'm stuck with the guilt of knowing what's coming.",
+      "share_cta": "Share this with your friend who needs to be warned about the impending doom",
+      "first_comment": "",
+      "hashtags": [
+        "#existentialcrisis",
+        "#greekmythology"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "share",
+      "scene_anchor": "Ariadne's tears as she weaves the tapestry.",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 2.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 5.0,
+        "cta_naturalness": 3.0,
+        "archetype_fit": 5.0,
+        "overall": 4.16
+      },
+      "judge_notes": "Needs work on sendability.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "oracle_warning",
+      "caption_archetype": "oracle_warning",
+      "archetype_reason": "Apparently, Athena's owl just whispered the prophecy in Ariadne's ear... but she ignored it.",
+      "overlay_text": "Don't @ me when this happens",
+      "caption_hook": "Warning: impending doom incoming (Athena's owl just told me)",
+      "post_body": "Apparently, it's not just about being on time for meetings anymore.",
+      "share_cta": "Share your favorite 'I should have listened to the oracle' stories in the comments",
+      "first_comment": "",
+      "hashtags": [
+        "#propheticfail",
+        "#greekmythology"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "comment",
+      "scene_anchor": "The owl perched on the loom, looking worried.",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 0.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 4.25,
+        "cta_naturalness": 3.0,
+        "archetype_fit": 4.5,
+        "overall": 3.65
+      },
+      "judge_notes": "Needs work on sendability.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "office_olympus",
+      "caption_archetype": "office_olympus",
+      "archetype_reason": "It looks like Athena's office is having a meeting about the impending doom... and Ariadne's prophetic tapestry is on the agenda.",
+      "overlay_text": "Agenda item 3: Impending doom (again)",
+      "caption_hook": "Athena's office meeting just got a lot more interesting... literally",
+      "post_body": "Apparently, they're discussing ways to avoid their own prophecy... good luck with that.",
+      "share_cta": "Share your favorite 'office meetings about impending doom' stories in the comments",
+      "first_comment": "",
+      "hashtags": [
+        "#greekmythology",
+        "#officeolympus"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "comment",
+      "scene_anchor": "The meeting table with Olympian deities seated around it, looking bored.",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 0.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 4.25,
+        "cta_naturalness": 2.25,
+        "archetype_fit": 4.5,
+        "overall": 3.56
+      },
+      "judge_notes": "Needs work on sendability, cta_naturalness.",
+      "rejection_reasons": []
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When Poseidon's wrath hits the beach.",
+      "caption_hook": "One bad review and he's coming for you.",
+      "share_cta": "Save this when your friend posts a trash review!",
+      "score_reason": "High two_second_clarity score due to clear reference"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "The King of the Sea's Yelp ratings.",
+      "caption_hook": "2/5 stars, wouldn't recommend Crete.",
+      "share_cta": "Send this when your friend gets a bad review!",
+      "score_reason": "High myth_accessibility score due to obvious reference"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When Poseidon takes one star reviews personally.",
+      "caption_hook": "2/5 stars, not recommended' says the god of the sea.",
+      "share_cta": "Save this when your friend gets salty about a bad review!",
+      "score_reason": "High second_beat_strength score due to additional setup"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Poseidon's 1-star rating system.",
+      "caption_hook": "Apparently, his trident is now a Yelp-style review board.",
+      "share_cta": "Send this when your friend needs a laugh about bad reviews!",
+      "score_reason": "High visual_specificity score due to clear image reference"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When the King of the Sea gives you a 2-star review.",
+      "caption_hook": "Would not recommend' says Poseidon, and means it.",
+      "share_cta": "Save this when your friend posts a bad review and needs a laugh!",
+      "score_reason": "High two_second_clarity score due to clear reference"
+    }
+  ],
+  "image_path": "images/20260502_162929_When_Poseidons_wrath_hits_the.png",
+  "audio_path": "audio/reel_clip_edit_Kaskade - move for me (Heim's trance edition) v6.wav",
+  "video_path": "videos/20260502_162929_When_Poseidons_wrath_hits_the.mp4",
+  "generated_at": "20260502_162929",
+  "duration": 12.0,
+  "performance": {
+    "views": 32,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 20,
+    "watch_time": null,
+    "total_interactions": 0,
+    "posted_at": "2026-05-02T16:31:43",
+    "duration": 12.0,
+    "hook_style": "short_snake_case_style",
+    "content_pillar": "petty_god_behavior",
+    "comedic_mechanism": "hyper_specific_modern_reference",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.0,
+    "updated_at": "2026-05-02T23:21:50Z",
+    "follows": null
+  },
+  "instagram_post_info": {
+    "id": "18108744796721954",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t2/f2/m86/AQNmkxlpujJWUqq4MUSydY21NVJih3K0PhFOS3wo46yi0EoUnlw4KD3FI5NOJ6KJlHBjyT3vtZK9ct5JSld6D5VAet5TSBbRW-s-cuE.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_ohc=h30q1GqzLdQQ7kNvwHhlK0m&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDc2OTUzMjI0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=46321cf6a81166f6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRDQ3NjMzNkMyMkEyOEUzNjU4MTk0RjhEN0ZFMjQ4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FCNDM2QzU5NUM4OTMxM0IyOEM4MDFBM0ZCNUM2OTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa82YCnh73PPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af7cJjVksC2mG1zyV1_EiPpG3sV3y0u0TA9vDfYV6kQlgQ&oe=69F860E9",
+    "caption": "One bad review and he's coming for you.\n\nApparently, his trident is also now a Yelp-styled 1-star rating system?\n\nSave this when your friend posts a trash review!\n\n#greekmythology #pettygods",
+    "permalink": "https://www.instagram.com/reel/DX2Yny-CpHZ/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/682293661_682433511630941_8122380075073062666_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LvFdygSj6DgQ7kNvwGxRb04&_nc_oc=AdpSg8SCttZT6Yoe0cQCdZfSCx-uOrOAixuik0lIGIxj_-nrYkvG_NqBTaf2KwbTEyw&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQHbNb4ekuL5sXYts354lU8aaZ4g0zcCZx7q_VHfIkKHbWP1ookHn4eWI-0V3RZyF9qoxs02XLqrwA&oh=00_Af7lqE69hkh9aWmEF2bsuVv-9rT1opO2ajrD9EzuEGBVMA&oe=69FC4A8B",
+    "timestamp": "2026-05-02T20:31:35+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "One bad review and he's coming for you.\n\nApparently, his trident is also now a Yelp-styled 1-star rating system?\n\nSave this when your friend posts a trash review!\n\n#greekmythology #pettygods",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:21:50Z",
+    "raw_metrics": {
+      "views": 32,
+      "reach": 20,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0
+    }
+  }
+}

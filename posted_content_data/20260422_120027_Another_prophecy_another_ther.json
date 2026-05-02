@@ -1,0 +1,146 @@
+{
+  "theme": "\"Achilles, demigod of rage and vulnerability, walks among the mortal city-states as they prepare for the Trojan War, while Poseidon's wrath simmers in the depths of the Aegean, and the Fates weave a tapestry of fate that will determine the course of heroes and mortals alike.\"",
+  "visual_concept": "\"Visualize a sweeping cityscape at dusk, with the Acropolis silhouetted against a fiery orange sky. Achilles stands atop the Parthenon's steps, his eyes fixed on the distant horizon as he contemplates the war to come. His iconic armor shines with an otherworldly light, while the weight of his destiny hangs like a dark cloud over his shoulders.\n\nIn the foreground, a bustling agora below is filled with mortals preparing for battle: blacksmiths hammering out swords, shield-makers affixing Asclepian symbols to their wares, and young heroes practicing their combat moves. Meanwhile, Poseidon's wrath simmers in the depths of the Aegean, his massive trident rising up from the waves like a titan's fist.\n\nIn the background, the Fates - Clotho, Lachesis, and Atropos - weave their tapestry on a loom suspended above the city, their threads of fate intersecting with those of mortals and gods alike. The image should convey a sense of impending doom, but also the resilience and hope that define humanity in the face of overwhelming adversity.\"",
+  "character_context": "\"Achilles, demigod son of Peleus, stands at the precipice of his greatest challenge. Haunted by the prophecy that he will fall to an arrow's tip in the walls of Troy, he is torn between the duty to defend his city-state and the fear of meeting his fate.\n\nPersonality: Brooding, intense, fiercely independent, and deeply empathetic, Achilles struggles with the weight of his own mortality. His rage and vulnerability are constant companions, fueling both his greatest strengths and weaknesses.\n\nBackground: Raised by King Peleus in Phthia, Achilles was trained by the great centaur Chiron in the arts of war and wisdom. He has fought bravely in several battles, but the memory of his beloved Patroclus haunts him still. As he prepares to face the Trojans, Achilles must confront not only his destiny but also the human cost of war.\n\nMotivations: Protect his city-state, honor his father's legacy, and defy the prophecy that has haunted him since childhood.\n\nEmotions: Fear, anger, determination, sorrow\n\nPhysical Description: Tall, muscular, with piercing blue eyes and hair as black as the night. His iconic armor is a symbol of his status as a demigod warrior.\"",
+  "overlay_text": "Another prophecy, another therapy bill",
+  "caption_hook": "When the gods are always right, but you're still broke",
+  "post_body": "Guess it's time for a new job... and a new therapist",
+  "hashtags": [
+    "#demigodprobs",
+    "#prophecystroubles"
+  ],
+  "first_comment": "Tell me about it",
+  "style_label": "relatable_modern_pain",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "painful_relatability",
+  "target_outcome": "share | save",
+  "scene_anchor": "Achilles' brooding expression",
+  "selection_reason": "",
+  "rejection_reasons": [
+    "invalid_target_outcome",
+    "scene_anchor_not_used"
+  ],
+  "instagram_caption": "When the gods are always right, but you're still broke\n\nGuess it's time for a new job... and a new therapist\n\n#demigodprobs #prophecystroubles",
+  "candidates": [
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": "Another prophecy, another therapy bill",
+      "caption_hook": "When the gods are always right, but you're still broke",
+      "post_body": "Guess it's time for a new job... and a new therapist",
+      "first_comment": "Tell me about it",
+      "hashtags": [
+        "#demigodprobs",
+        "#prophecystroubles"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "save | share",
+      "scene_anchor": "Achilles' brooding expression",
+      "rejection_reasons": [
+        "invalid_target_outcome",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "Gods, am I right?",
+      "caption_hook": "When your dad is Poseidon and you're just trying to get a beach house",
+      "post_body": "I mean, who needs personal space when you have a tidal wave at your beck and call?",
+      "first_comment": "Lol that's nothing",
+      "hashtags": [
+        "#godprobs",
+        "#oceanviews"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "comment | fo",
+      "scene_anchor": "Poseidon's massive trident rising from the waves",
+      "rejection_reasons": [
+        "invalid_target_outcome",
+        "hook_too_long",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "Tough love, gods style",
+      "caption_hook": "You will fall. But first, you have to take a few more steps.",
+      "post_body": "Pro tip: don't look back, just keep moving forward... and hope for the best",
+      "first_comment": "So motivating",
+      "hashtags": [
+        "#godsadvice",
+        "#motivation"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "share | save",
+      "scene_anchor": "The Fates weaving their tapestry above the city",
+      "rejection_reasons": [
+        "invalid_target_outcome",
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "You're welcome, Patroclus",
+      "caption_hook": "When you finally find someone who understands your god complex",
+      "post_body": "Just don't leave me for a Trojan prince... again",
+      "first_comment": "Ouch, low blow",
+      "hashtags": [
+        "#demigodromance",
+        "#godsproblems"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "comment | fo",
+      "scene_anchor": "Achilles' iconic armor shining with otherworldly light",
+      "rejection_reasons": [
+        "invalid_target_outcome",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "Fate, am I right?",
+      "caption_hook": "When your career is literally written in the stars... and it's not looking great",
+      "post_body": "Just another day at the office for the Fates. Sigh.",
+      "first_comment": "Told you so",
+      "hashtags": [
+        "#fateprobs",
+        "#godsaremean"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "share | save",
+      "scene_anchor": "The Oracle's tapestry showing the course of fate",
+      "rejection_reasons": [
+        "invalid_target_outcome",
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "one liner",
+      "overlay_text": "Tapping into my inner demigod",
+      "caption_hook": "I'm not arguing, I'm just explaining why I'll win this battle... and also every other fight in life",
+      "post_body": "Just call me Achilles, CEO of Awesomeness Inc.",
+      "first_comment": "More like demigod drama queen",
+      "hashtags": [
+        "#demigodlife",
+        "#godsarecool"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "follow | sha",
+      "scene_anchor": "Achilles' massive sword resting against the Parthenon's steps",
+      "rejection_reasons": [
+        "invalid_target_outcome",
+        "hook_too_long",
+        "overexplaining"
+      ]
+    }
+  ],
+  "image_path": "images/20260422_120027_Another_prophecy_another_ther.png",
+  "audio_path": "audio/reel_clip_edit_heim - make it back [final].wav",
+  "video_path": "videos/20260422_120027_Another_prophecy_another_ther.mp4",
+  "generated_at": "20260422_120027"
+}

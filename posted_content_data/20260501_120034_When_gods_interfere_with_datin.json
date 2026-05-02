@@ -1,0 +1,238 @@
+{
+  "theme": "\"In twilight's hush, where Olympian shadows play, the mortal daughter of a forgotten sea-god navigates the treacherous dance of divine politics and ancient prophecy as she becomes embroiled in the schemes of Aphrodite, Ares, and the whispered promises of the Oracle of Delphi.\"",
+  "visual_concept": "\"A young woman with long, raven-black hair and sea-foam green eyes stands at the edge of a moonlit cliff, overlooking the shimmering expanse of the Aegean Sea below. Her slender fingers grasp the hilt of a worn, bronze-tipped sword, while her white chiton is billowed by the whispers of the wind. Behind her, Aphrodite's radiant form looms in silhouette, her hand extended as if offering a rose-petal soft whisper to the sea itself. In the distance, Ares' dark figure stalks across the waves, his eyes aglow with an otherworldly fire as he beckons the young woman into the shadows. The Oracle of Delphi's voice whispers on the wind, 'Your fate is woven in the tapestry of the gods...' as the young woman's gaze stretches out to meet the darkness that awaits her.\"",
+  "character_context": "\"Meet Calypso, daughter of Poseidon, a 19-year-old mortal with an otherworldly connection to the sea's secrets and power. Her eyes hold the deep turquoise hue of her father's realm, and her raven-black hair flows like the ocean's night tides. Raised by her mother in a secluded coastal town, Calypso has always felt the call of the gods, sensing the threads of fate that weave through her destiny. As she navigates the treacherous dance of divine politics, she must confront her own desires and loyalties, torn between her love for her mortal life and the whispered promises of Aphrodite, Ares, and the Oracle of Delphi.\"",
+  "overlay_text": "When gods interfere with dating apps",
+  "caption_hook": "When Poseidon shows up on Tinder and complains about your bio",
+  "post_body": "Aphrodite just texted me about the weather too.",
+  "share_cta": "Send this to the friend who's also dealing with a sea god in their DMs",
+  "hashtags": [
+    "#goddessesofinstagram",
+    "#seafoamsquad"
+  ],
+  "first_comment": "",
+  "hook_style": "short_snake_case_style",
+  "hook_score": 12.5,
+  "hook_score_reason": "This hook variant adds a modern twist to the original joke, making it more relatable and shareable",
+  "hook_generation_error": "",
+  "style_label": "calypso_crisis",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "painful_relatability",
+  "target_outcome": "share",
+  "scene_anchor": "Calypso's sea-foam green eyes",
+  "selection_reason": "This candidate has the highest send potential, with a strong hook and relatable scenario that viewers can easily share with friends dealing with similar issues.",
+  "rejection_reasons": [
+    "scene_anchor_not_used"
+  ],
+  "instagram_caption": "When Poseidon shows up on Tinder and complains about your bio\n\nAphrodite just texted me about the weather too.\n\nSend this to the friend who's also dealing with a sea god in their DMs\n\n#goddessesofinstagram #seafoamsquad",
+  "candidates": [
+    {
+      "style_label": "calypso_crisis",
+      "overlay_text": "Same pain, different gods",
+      "caption_hook": "When you've had enough of Poseidon's mood swings",
+      "post_body": "Aphrodite just texted me about the weather too.",
+      "share_cta": "Send this to the friend who's also dealing with a god-complex partner",
+      "first_comment": "",
+      "hashtags": [
+        "#goddessesofinstagram",
+        "#seafoamsquad"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "share",
+      "scene_anchor": "Calypso's sea-foam green eyes",
+      "rejection_reasons": [
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "ares_affair",
+      "overlay_text": "Gods behaving badly",
+      "caption_hook": "When Ares shows up to your beach day and gets upset about the sand",
+      "post_body": "Apparently it's a 'divine disturbance' now.",
+      "share_cta": "",
+      "first_comment": "",
+      "hashtags": [
+        "#godsbehavingbadly",
+        "#poseidonvsares"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "comment",
+      "scene_anchor": "Ares' dark figure stalking across the waves",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "oracle_advice",
+      "overlay_text": "Fate: because adulting is hard too",
+      "caption_hook": "When the Oracle of Delphi gives you advice and it sounds like a Taylor Swift song",
+      "post_body": "Your fate is woven in the tapestry of the gods... and also in that spreadsheet from work.",
+      "share_cta": "",
+      "first_comment": "",
+      "hashtags": [
+        "#fateisweird",
+        "#oracleofficehumor"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "save",
+      "scene_anchor": "The Oracle's voice whispering on the wind",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "aphrodite_intervention",
+      "overlay_text": "When Aphrodite is low-key judging you",
+      "caption_hook": "When your crush has more influence with the gods than you do with them",
+      "post_body": "At least she's sending roses to my ex now.",
+      "share_cta": "",
+      "first_comment": "",
+      "hashtags": [
+        "#goddessesofinstagram",
+        "#relationshipgoals"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "follow",
+      "scene_anchor": "Aphrodite's radiant form looming in silhouette",
+      "rejection_reasons": [
+        "hook_too_long",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "poseidon_pride",
+      "overlay_text": "My power comes from the sea, not your Netflix password",
+      "caption_hook": "When you finally learn to harness your inner Poseidon energy and conquer those Netflix queues",
+      "post_body": "Aphrodite just asked for help with her password again.",
+      "share_cta": "",
+      "first_comment": "",
+      "hashtags": [
+        "#poseidonspower",
+        "#goddessesofinstagram"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "share",
+      "scene_anchor": "Calypso's sword hilt",
+      "rejection_reasons": [
+        "hook_too_long",
+        "overlay_too_long"
+      ]
+    },
+    {
+      "style_label": "delphi_destiny",
+      "overlay_text": "When your destiny is being written by a committee of gods with no clue about modern life",
+      "caption_hook": "When you just want to ask 'what's next?' and get an actual answer for once",
+      "post_body": "Apparently I'm meant to be a demigod influencer now.",
+      "share_cta": "",
+      "first_comment": "",
+      "hashtags": [
+        "#godsofinstagram",
+        "#fateisweird"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "comment",
+      "scene_anchor": "The Oracle's whispering voice on the wind",
+      "rejection_reasons": [
+        "hook_too_long",
+        "overlay_too_long",
+        "scene_anchor_not_used"
+      ]
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods interfere with dating apps",
+      "caption_hook": "When Poseidon shows up on Tinder and complains about your bio",
+      "share_cta": "Send this to the friend who's also dealing with a sea god in their DMs",
+      "score_reason": "This hook variant adds a modern twist to the original joke, making it more relatable and shareable"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods get too close to home",
+      "caption_hook": "When Aphrodite texts you about your laundry and then complains about the detergent",
+      "share_cta": "Send this to the friend who's also dealing with a goddess in their group chat",
+      "score_reason": "This hook variant uses absurd contrast to create humor, making it more engaging and shareable"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods get too involved in your life",
+      "caption_hook": "When Poseidon shows up at your beach day and gets upset about the umbrella",
+      "share_cta": "Send this to the friend who's also dealing with a god-complex partner",
+      "score_reason": "This hook variant uses a relatable scenario to create humor, making it more shareable and engaging"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods get too invested in your online life",
+      "caption_hook": "When Aphrodite shows up on social media and starts giving you relationship advice",
+      "share_cta": "Send this to the friend who's also dealing with a goddess in their feed",
+      "score_reason": "This hook variant uses a modern twist on an ancient theme, making it more relatable and shareable"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "When gods get too personal",
+      "caption_hook": "When Poseidon texts you about your Netflix password and then complains about the shows",
+      "share_cta": "Send this to the friend who's also dealing with a sea god in their group chat",
+      "score_reason": "This hook variant uses absurd contrast to create humor, making it more engaging and shareable"
+    }
+  ],
+  "image_path": "images/20260501_120034_When_gods_interfere_with_datin.png",
+  "audio_path": "audio/reel_clip_edit_Heim - flutta 2 [vocal edit].wav",
+  "video_path": "videos/20260501_120034_When_gods_interfere_with_datin.mp4",
+  "generated_at": "20260501_120034",
+  "duration": 12.0,
+  "performance": {
+    "views": 82,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 71,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 1,
+    "posted_at": "2026-05-01T12:03:01",
+    "duration": 12.0,
+    "hook_style": "short_snake_case_style",
+    "content_pillar": "relatable_modern_pain",
+    "comedic_mechanism": "painful_relatability",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.014084507042253521,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.014084507042253521,
+    "updated_at": "2026-05-02T23:13:51Z"
+  },
+  "instagram_post_info": {
+    "id": "18015526646681283",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQPcIluCDPI8z6AKgbOZ98HXq6LLZ4m1kyV6MwJkOeAPD8uad99ZkVf0YDkVVzqTjsz9LyFjkXaNlf0ZkJhVnudeqfnOg8T5YDJv-TI.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=pl54sW_WuFIQ7kNvwGJsycq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDc0OTI5OTY0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f8cd3ef444bac4f8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQjQ0MTkxM0M4OEU3NkU0MEQyOUY1MUE3MEJDQzBBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk5NEFDMTNDQUU4MzI0RTJCMTNCRDU5N0JCOUREOThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa80_Lto7HPPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af7qHki6djOO-6l9T28oUvRXnFzHeekdfYFJiOuD26L73g&oe=69F8643D",
+    "caption": "When Poseidon shows up on Tinder and complains about your bio\n\nAphrodite just texted me about the weather too.\n\nSend this to the friend who's also dealing with a sea god in their DMs\n\n#goddessesofinstagram #seafoamsquad",
+    "permalink": "https://www.instagram.com/reel/DXzVE6uikfk/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/683649104_1733152094722916_5244776436173675721_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=M2fgLonx9_wQ7kNvwFGblmP&_nc_oc=Adq7l57jNdAueg45XAM55D9i2nVrw1gOBBuMZbUFOmmZzKZRyJeTH6wE0KZo_zRDqew&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQHXDlLcRFcXLuxiZQ1WlaO2Pm_D0bTjVzQdNSkdGGQXLdE898qphrFNANsC5-1EIFUR-598goHSMw&oh=00_Af7oX8H8VPc_Kd2_PYDSDAmr7PpPAHuTB0RG1GETc-__tA&oe=69FC4C67",
+    "timestamp": "2026-05-01T16:02:54+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "When Poseidon shows up on Tinder and complains about your bio\n\nAphrodite just texted me about the weather too.\n\nSend this to the friend who's also dealing with a sea god in their DMs\n\n#goddessesofinstagram #seafoamsquad",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:13:51Z",
+    "raw_metrics": {
+      "views": 82,
+      "reach": 71,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1
+    }
+  }
+}

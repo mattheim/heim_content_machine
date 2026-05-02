@@ -1,0 +1,137 @@
+{
+  "theme": "\"The Oracle's Masquerade: In the shadowy courts of Olympus, the mortal priestess Chryseis navigates a labyrinthine world of divine intrigue and deception, as she uncovers secrets hidden behind the masks of gods and mortals alike.\"",
+  "visual_concept": "\"Chryseis stands at the entrance of the Oracle's chambers, a dimly lit corridor of marble and shadow, where the faint scent of frankincense wafts through the air. Her eyes are cast downward, her delicate fingers clutching the folds of her himation as she gazes upon the mask of Apollo, which lies abandoned on a nearby pedestal. The God of the Sun's radiant face seems to mock her, its features twisted in a cruel smile, as if it knew the weight of fate that rested upon her shoulders. In the background, the silhouettes of gods and mortals mingle, their faces obscured by the flickering torchlight, casting long shadows across the polished floor.\"",
+  "character_context": "\"Chryseis is a 25-year-old priestess of Apollo, tasked with interpreting the god's cryptic oracles. She is intelligent and resourceful, yet increasingly disillusioned with the politics of the Olympian court, where gods manipulate mortals for their own purposes. Her own past is marked by tragedy: her family was destroyed in a brutal conflict sparked by a prophecy she inadvertently released. Now, Chryseis must navigate the treacherous landscape of divine intrigue to prevent another catastrophe, all while confronting her own role in shaping fate and grappling with the weight of Apollo's prophetic mask, which seems to hold secrets of its own.\"",
+  "overlay_text": "When the gods give you a prophecy...",
+  "caption_hook": "You're still figuring out what it means.",
+  "post_body": "Mortal life is hard enough without divine intervention.",
+  "hashtags": [
+    "#olympianproblems",
+    "#mortallifestruggles"
+  ],
+  "first_comment": "Right? Meanwhile, the gods just shrug and change their hair color",
+  "style_label": "relatable_modern_pain",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "painful_relatability",
+  "target_outcome": "share",
+  "scene_anchor": "Chryseis' downcast eyes on Apollo's abandoned mask",
+  "selection_reason": "This candidate excels at combining relatable modern pain with a mythological twist, making it both understandable and engaging for someone with basic mythology knowledge.",
+  "rejection_reasons": [
+    "scene_anchor_not_used"
+  ],
+  "instagram_caption": "You're still figuring out what it means.\n\nMortal life is hard enough without divine intervention.\n\n#olympianproblems #mortallifestruggles",
+  "candidates": [
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": "When the gods give you a prophecy...",
+      "caption_hook": "You're still figuring out what it means.",
+      "post_body": "Mortal life is hard enough without divine intervention.",
+      "first_comment": "Right? Meanwhile, the gods just shrug and change their hair color",
+      "hashtags": [
+        "#olympianproblems",
+        "#mortallifestruggles"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "share",
+      "scene_anchor": "Chryseis' downcast eyes on Apollo's abandoned mask",
+      "rejection_reasons": [
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "Gods: 1, Humans: 0",
+      "caption_hook": "They just can't resist a good game of 'who can be more petty'.",
+      "post_body": "Meanwhile, Chryseis is over here trying to interpret prophecies.",
+      "first_comment": "What's the worst thing a god has ever done to you?",
+      "hashtags": [
+        "#godsoftheinternet",
+        "#pettydivine"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "comment",
+      "scene_anchor": "The silhouettes of gods and mortals mingling in the background",
+      "rejection_reasons": [
+        "hook_too_long"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "Your fate is sealed.",
+      "caption_hook": "But you can still choose how you wear it.",
+      "post_body": "A prophecy is just a reminder to live life on your own terms.",
+      "first_comment": "Reminds me of my favorite quote...",
+      "hashtags": [
+        "#fateiswhatyoumakeit",
+        "#propheciesandperseverance"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "save",
+      "scene_anchor": "Chryseis' gaze upon the mask of Apollo",
+      "rejection_reasons": [
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "When you realize your crush is actually just a god",
+      "caption_hook": "But they still give amazing gifts.",
+      "post_body": "Who needs mortal connections when you have divine favor?",
+      "first_comment": "I know, right? I mean, who needs human relationships when...",
+      "hashtags": [
+        "#godlygifts",
+        "#mortalproblems"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "follow",
+      "scene_anchor": "The faint scent of frankincense wafting through the air",
+      "rejection_reasons": [
+        "overlay_too_long"
+      ]
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "The Oracle's 'office hours",
+      "caption_hook": "Just drop by, and we'll read your fortune... or not.",
+      "post_body": "It's like they say: if you want a job done right, do it yourself (and then blame the gods).",
+      "first_comment": "I mean, who needs actual expertise when you have prophecies?",
+      "hashtags": [
+        "#oraclelife",
+        "#mortalprobs"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "share",
+      "scene_anchor": "Apollo's radiant face seeming to mock Chryseis",
+      "rejection_reasons": [
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "When you're still trying to adult...",
+      "caption_hook": "But at least you have a divine excuse.",
+      "post_body": "It's not procrastination, it's just... mortal deliberation.",
+      "first_comment": "Same, but with Netflix instead of prophecies...",
+      "hashtags": [
+        "#adultingstruggles",
+        "#mortallife"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "comment",
+      "scene_anchor": "Chryseis' delicate fingers clutching her himation",
+      "rejection_reasons": [
+        "scene_anchor_not_used"
+      ]
+    }
+  ],
+  "image_path": "images/20260424_120025_When_the_gods_give_you_a_proph.png",
+  "audio_path": "audio/reel_clip_edit_DARRY LAVID - LETS GO.wav",
+  "video_path": "videos/20260424_120025_When_the_gods_give_you_a_proph.mp4",
+  "generated_at": "20260424_120025"
+}

@@ -1,0 +1,238 @@
+{
+  "theme": "\"In a world where the Olympian gods have abandoned Mount Olympus, the demigod offspring of these deities must navigate a treacherous mortal realm, where ancient prophecies are mere afterthoughts and the fabric of fate is woven with every reckless decision.\"",
+  "visual_concept": "\"A foreboding cityscape sprawls in the distance, its crumbling architecture a testament to the neglect of the gods. In the foreground, a lone figure stands atop a ruined temple, gazing out upon the ruin with an air of defeated resignation. The demigod's hair is wild and unkempt, their face a map of worry lines and scars. A wispy mist clings to the city, as if the very essence of Mount Olympus still lingers in the mortal realm.\"",
+  "character_context": "\"The demigod, Lykos, stands at the precipice of a new era, their very existence a manifestation of the Olympian's hubris. Born to the goddess Artemis and a mortal huntsman, Lykos embodies the tumultuous relationship between the gods and mortals. With the gods' abandonment, Lykos must navigate the treacherous landscape of human politics and ancient prophecies, all while struggling to define their own place in a world devoid of divine guidance.\"",
+  "overlay_text": "Prophesied struggles ahead.",
+  "caption_hook": "When you're the only one who remembers the gods' favorite memes",
+  "post_body": "and they left us with a world that's just as confusing (and probably even more confusing for them, tbh)",
+  "share_cta": "Send this to your coworker who thinks they're 'fated' for success",
+  "hashtags": [
+    "#demigodstruggles",
+    "#godcomplex"
+  ],
+  "first_comment": "",
+  "hook_style": "short_snake_case_style",
+  "hook_score": 8.5,
+  "hook_score_reason": "This hook adds a modern twist on prophecy, making it relatable to everyday struggles",
+  "hook_generation_error": "",
+  "style_label": "relatable_modern_pain",
+  "content_pillar": "relatable_modern_pain",
+  "comedic_mechanism": "painful_relatability",
+  "target_outcome": "share",
+  "scene_anchor": "Lykos' messy, unkempt hair",
+  "selection_reason": "This candidate stands out because it uses relatable modern pain as a punchline, making it easy for viewers to share with friends who might be struggling with similar issues.",
+  "rejection_reasons": [
+    "body_lacks_second_beat",
+    "scene_anchor_not_used"
+  ],
+  "instagram_caption": "When you're the only one who remembers the gods' favorite memes\n\nand they left us with a world that's just as confusing (and probably even more confusing for them, tbh)\n\nSend this to your coworker who thinks they're 'fated' for success\n\n#demigodstruggles #godcomplex",
+  "candidates": [
+    {
+      "style_label": "relatable_modern_pain",
+      "overlay_text": "Another prophecy to mess up.",
+      "caption_hook": "When you realize you're the only one who remembers the gods",
+      "post_body": "and they left us with a world that's just as confusing",
+      "share_cta": "Send this to the friend who thinks they've got it all figured out",
+      "first_comment": "",
+      "hashtags": [
+        "#demigodstruggles",
+        "#godcomplex"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "share",
+      "scene_anchor": "Lykos' messy, unkempt hair",
+      "rejection_reasons": [
+        "body_lacks_second_beat",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "Godly tantrum alert!",
+      "caption_hook": "When Artemis' favorite hunter's kid burns down a temple",
+      "post_body": "And then proceeds to complain about it on social media",
+      "share_cta": "Save this for when you need a reminder of the gods' petty behavior",
+      "first_comment": "",
+      "hashtags": [
+        "#goddessproblems",
+        "#templetroubles"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "save",
+      "scene_anchor": "the ruined temple in the foreground",
+      "rejection_reasons": [
+        "body_lacks_second_beat"
+      ]
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "You got this!",
+      "caption_hook": "When you're a demigod with more questions than answers",
+      "post_body": "Just remember, you can always try harder (or just give up)",
+      "share_cta": "Follow for daily doses of demigod motivation... and occasional existential dread",
+      "first_comment": "",
+      "hashtags": [
+        "#demigodlife",
+        "#motivation"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "deadpan",
+      "target_outcome": "follow",
+      "scene_anchor": "Lykos' defeated expression",
+      "rejection_reasons": [
+        "body_lacks_second_beat",
+        "scene_anchor_not_used"
+      ]
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "Tinder profile approved!",
+      "caption_hook": "When you match with a mortal, but they're actually a god's offspring",
+      "post_body": "Swipe right for love, swipe left for prophecies of doom",
+      "share_cta": "Comment below with your worst dating app horror story",
+      "first_comment": "",
+      "hashtags": [
+        "#demigodlove",
+        "#godlymatches"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "hyper_specific_modern_reference",
+      "target_outcome": "comment",
+      "scene_anchor": "Lykos standing alone in the cityscape",
+      "rejection_reasons": [
+        "body_lacks_second_beat"
+      ]
+    },
+    {
+      "style_label": "oracle_office_humor",
+      "overlay_text": "Fate's 2 cents...",
+      "caption_hook": "When the Oracle finally gets a demigod client",
+      "post_body": "But realizes it's just another meaningless life they'll be advising on",
+      "share_cta": "Send this to the friend who thinks their life is 'fated' to be boring",
+      "first_comment": "",
+      "hashtags": [
+        "#oracleproblems",
+        "#demigoddrama"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "share",
+      "scene_anchor": "the misty cityscape in the background",
+      "rejection_reasons": [
+        "body_lacks_second_beat"
+      ]
+    },
+    {
+      "style_label": "savage_observational_humor",
+      "overlay_text": "Red flags ahead!",
+      "caption_hook": "When a demigod's mortal partner starts asking about their 'godly powers",
+      "post_body": "You know, just casually talking about being able to level mountains with your mind",
+      "share_cta": "Comment below with the worst red flag you've ever seen in a relationship",
+      "first_comment": "",
+      "hashtags": [
+        "#demigodprobs",
+        "#relationshipredflags"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "comment",
+      "scene_anchor": "Lykos' worried expression",
+      "rejection_reasons": [
+        "body_lacks_second_beat",
+        "scene_anchor_not_used"
+      ]
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Prophesied struggles ahead.",
+      "caption_hook": "When you're the only one who remembers the gods' favorite memes",
+      "share_cta": "Send this to your coworker who thinks they're 'fated' for success",
+      "score_reason": "This hook adds a modern twist on prophecy, making it relatable to everyday struggles"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Divine intervention needed.",
+      "caption_hook": "When your mortal life is a prophecy in disguise (but not the good kind)",
+      "share_cta": "Send this to your friend who's constantly getting into weird misadventures",
+      "score_reason": "This hook leans into the absurdity of prophesied lives, making it shareable"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Confused by the gods.",
+      "caption_hook": "When you're stuck with a prophecy that's just as vague as your college degree",
+      "share_cta": "Send this to your friend who's still trying to figure out their life's purpose",
+      "score_reason": "This hook pokes fun at the uncertainty of prophesied lives, making it relatable"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Prophecy fail.",
+      "caption_hook": "When you realize that even the gods can't get their prophecies right",
+      "share_cta": "Send this to your friend who's constantly making bad life choices",
+      "score_reason": "This hook leans into the humor of prophetic failures, making it shareable"
+    },
+    {
+      "hook_style": "short_snake_case_style",
+      "overlay_text": "Gods' worst decisions.",
+      "caption_hook": "When you're stuck with a prophecy that's basically just the gods playing a cruel joke",
+      "share_cta": "Send this to your friend who's constantly getting into weird misadventures",
+      "score_reason": "This hook pokes fun at the absurdity of prophesied lives, making it relatable"
+    }
+  ],
+  "image_path": "images/20260429_120035_Prophesied_struggles_ahead..png",
+  "audio_path": "audio/reel_clip_edit_heim - no time [did you know].wav",
+  "video_path": "videos/20260429_120035_Prophesied_struggles_ahead..mp4",
+  "generated_at": "20260429_120035",
+  "duration": 12.0,
+  "performance": {
+    "views": 139,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 127,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 1,
+    "posted_at": "2026-04-29T12:03:48",
+    "duration": 12.0,
+    "hook_style": "short_snake_case_style",
+    "content_pillar": "relatable_modern_pain",
+    "comedic_mechanism": "painful_relatability",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.007874015748031496,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.007874015748031496,
+    "updated_at": "2026-05-02T23:13:41Z"
+  },
+  "instagram_post_info": {
+    "id": "18006155264858948",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPJ2Wp1xp-a-ayeutBExM7_7Ev1B3CLLcIoWy74F5fYBokJNERiA9UknjS8_2XPTSwvcHxunlDRAJAiDiqd_Q8PaelWF0nOE4x5kcA.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=mOmEMMGR63kQ7kNvwHJWf8A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDcxNDI2NDQ0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3c899a70d818f3b3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMjQ1M0YzREFEQ0IyOUYwMTdBM0Q4NDM4RDcwM0JBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQwNDNEMEE4MDBDNjNEQTc5NjdEOTlERTlBMTkzNTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8w5jE8ZzPPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af6ghr5vj-vQ1ibRBsuItvb3ldmoyB0i6r-SHnGRmv7HhA&oe=69F86F42",
+    "caption": "When you're the only one who remembers the gods' favorite memes\n\nand they left us with a world that's just as confusing (and probably even more confusing for them, tbh)\n\nSend this to your coworker who thinks they're 'fated' for success\n\n#demigodstruggles #godcomplex",
+    "permalink": "https://www.instagram.com/reel/DXuLlqICnmF/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/683301069_1610256746725103_4127492325396832788_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VX5W6v5YlkwQ7kNvwHJ9C3r&_nc_oc=AdrH0qasqOPLqFAcpr28Zp1ffn_ZGGG6tM7MRH8BXc4fWQbZ4a2FpXcb1OluK6tY12M&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQH50xnagGpglhemp55dK_jpvBGgiWSPRdwiGwdktxpzu27yEjEFSrYsOV3bB1yNsDHQBrW9reVc-Q&oh=00_Af7uHGLQACXQPyV3Wocf9oyx4_xy0cxy_dozNOC8K0Pl6Q&oe=69FC4D16",
+    "timestamp": "2026-04-29T16:03:40+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "When you're the only one who remembers the gods' favorite memes\n\nand they left us with a world that's just as confusing (and probably even more confusing for them, tbh)\n\nSend this to your coworker who thinks they're 'fated' for success\n\n#demigodstruggles #godcomplex",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:13:41Z",
+    "raw_metrics": {
+      "views": 139,
+      "reach": 127,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1
+    }
+  }
+}

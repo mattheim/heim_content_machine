@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-09-25T02:52:58+0000",
+  "overlay_text": null,
+  "caption_hook": "Lord of ze underworld",
+  "post_body": "Lord of ze underworld",
+  "caption": "Lord of ze underworld",
+  "instagram_post_info": {
+    "id": "18106055365595044",
+    "caption": "Lord of ze underworld",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQPhOmxSbBYrXl3pOxCXPHrwDyqGd69Lan4URollJO9Rdsd5vyZPBgqkPs-Zsp7lKwN4_4-qnPxw0GsAevbK3V01lQRVMZSSMLb-ByI.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=3Ky8eq-aLrQQ7kNvwG1aAJy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6NzMzNDYxMjI2MzkxMjk3LCJhc3NldF9hZ2VfZGF5cyI6MjE5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ca241979ca4c48f2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xODQ4MTE0NkU2OTVDOTRCQTE2NjgwQjVEMjEyQTc4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYSGlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNDE0NjMxODM1MTcxMzQ4Nl83Njk3ODQxNDc5NjI3MTc0NDU4Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCnNj9h8XNAhUCKAJDMywXQDQAAAAAAAAYEmRhc2hfYmFzZWxpbmVfM192MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af6s6mVOf63sKh7rilAV1cMcjJCSzvP0EvrdoNgCdF-Y8w&oe=69F85ADD",
+    "permalink": "https://www.instagram.com/reel/DPAlbmKDX_B/",
+    "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.71878-15/553571356_1124202855916989_9172708112902676950_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OT94kzn0KEcQ7kNvwGZPp3Y&_nc_oc=Adp5DnU0BCBEKqtMwc4XmvqX7cPWqMW7oX1huhO8hkdAeA2wQr_KVrPnVNKuhJq6gWs&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQHme0VNVDZT8Q3X5oDhPcmayj4Zh0nRuk9YT8AVK7oastJ8BOsETDqHPnQs9peoR4Zdpuh2ScHSZg&oh=00_Af4ZYizaiYHbK0NPWaciMBs8_V64uJsahswIjQS85tB7ew&oe=69FC3D57",
+    "timestamp": "2025-09-25T02:52:58+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 214,
+    "likes": 3,
+    "comments": 0,
+    "shares": 3,
+    "saves": 0,
+    "reach": 165,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 6,
+    "posted_at": "2025-09-25T02:52:58+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.01818181818181818,
+    "save_rate": 0.0,
+    "like_rate": 0.01818181818181818,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.1090909090909091,
+    "updated_at": "2026-05-02T23:10:31Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:10:31Z",
+    "raw_metrics": {
+      "views": 214,
+      "reach": 165,
+      "likes": 3,
+      "comments": 0,
+      "shares": 3,
+      "saved": 0,
+      "total_interactions": 6
+    }
+  }
+}

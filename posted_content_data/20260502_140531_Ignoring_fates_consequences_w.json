@@ -1,0 +1,221 @@
+{
+  "theme": "\"In the shadow of Olympus, where the mortal city of Thebes burns with ambition and hubris, a young Oracle's apprentice must navigate the treacherous landscape of prophecy, politics, and divine intrigue to uncover the truth behind their own forgotten destiny. Inspired by the enigmatic Tiresias, who saw the threads of fate weave and unravel like the tapestry of his own life.\"",
+  "visual_concept": "Visual Concept:\n\n* Scene: A dimly lit, labyrinthine Oracle's chamber in ancient Thebes\n* Lighting: Warm, golden hues from torches and lanterns, with an eerie, otherworldly glow emanating from a crystal orb on a pedestal in the center of the room\n* Characters:\n\t+ Protagonist (young Oracle's apprentice): Standalone figure, dressed in simple yet elegant attire, gazing up at the crystal orb with a mixture of wonder and trepidation\n\t+ Tiresias: Seated in shadows, shrouded in mist, observing the protagonist with an enigmatic, knowing gaze\n* Background:\n\t+ Ancient Greek columns and architecture, with intricate carvings depicting scenes from mythology\n\t+ Flickering flames and smoke from nearby torches dance across the walls, casting eerie silhouettes on the stone floor\n* Colors: Muted earth tones (ochre, umber, sienna) with accents of rich gold and crimson to evoke a sense of mysticism and foreboding\n* Composition: The protagonist is centered in the frame, gazing up at the crystal orb, while Tiresias looms in the shadows behind them, creating a sense of depth and mystery",
+  "character_context": "Character Context:\n\n* Protagonist (young Oracle's apprentice):\n\t+ Name: Kyra\n\t+ Age: 19\n\t+ Personality: Kyra is a curious and determined individual, driven by a desire to uncover the truth about her own forgotten destiny. She is fiercely independent and non-conformist, often challenging the traditional roles and expectations of the Oracle's guild.\n\t+ Appearance: Kyra has long, dark hair and piercing green eyes that seem to gleam with an inner light. She wears simple yet elegant attire adorned with small, intricate tokens representing her connection to the gods.\n* Tiresias:\n\t+ Age: Unknown (appears ancient)\n\t+ Personality: Tiresias exudes an air of mystique and authority, with a knowing gaze that seems to pierce through time itself. He is enigmatic and reserved, speaking only in cryptic phrases that reveal more than they conceal.\n\t+ Appearance: Tiresias appears as a wizened old man, shrouded in mist and shadows. His eyes burn with an otherworldly intensity, while his weathered skin seems to hold the secrets of centuries.",
+  "overlay_text": "Ignoring fate's consequences will not end well",
+  "caption_hook": "Tiresias: 'Your ignoring of fate's just gonna make things worse",
+  "post_body": "Because let's be real, ignoring fate is just like ignoring your mom – it might feel good in the moment, but it's gonna end badly.",
+  "share_cta": "Send this to someone who thinks they can outrun their problems",
+  "hashtags": [
+    "#fatememes",
+    "#oraclelife"
+  ],
+  "first_comment": "",
+  "caption_archetype": "oracle_warning",
+  "archetype_reason": "Tiresias' prophecy sets up a joke about ignoring fate and the absurdity of trying to outrun it.",
+  "hook_style": "general_warning_hook",
+  "hook_score": 13.75,
+  "hook_score_reason": "This hook is a general warning, making it perfect for sharing with anyone who needs a reality check.",
+  "caption_scores": {
+    "two_second_clarity": 5.0,
+    "visual_specificity": 5.0,
+    "sendability": 5.0,
+    "myth_accessibility": 4.5,
+    "second_beat_strength": 3.75,
+    "cta_naturalness": 4.5,
+    "archetype_fit": 4.5,
+    "overall": 4.64
+  },
+  "judge_notes": "Strongest on two_second_clarity, visual_specificity.",
+  "hook_generation_error": "",
+  "style_label": "oracle_warning",
+  "content_pillar": "oracle_office_humor",
+  "comedic_mechanism": "savage_observational_humor",
+  "target_outcome": "save",
+  "scene_anchor": "the crystal orb on the pedestal",
+  "selection_reason": "This candidate stands out for its strong hook, clear visual anchor, and natural send potential. The overlay text is concise and attention-grabbing, while the post body adds a relat",
+  "rejection_reasons": [],
+  "instagram_caption": "Tiresias: 'Your ignoring of fate's just gonna make things worse\n\nBecause let's be real, ignoring fate is just like ignoring your mom – it might feel good in the moment, but it's gonna end badly.\n\nSend this to someone who thinks they can outrun their problems\n\n#fatememes #oraclelife",
+  "candidates": [
+    {
+      "style_label": "oracle_warning",
+      "caption_archetype": "oracle_warning",
+      "archetype_reason": "Tiresias' prophecy sets up a joke about ignoring fate.",
+      "overlay_text": "IGNORE THE WARNINGS",
+      "caption_hook": "Tiresias: 'Fate's a cruel mistress, Kyra.",
+      "post_body": "But did you really think ignoring her would change anything?",
+      "share_cta": "Send this to someone who thinks they can outrun fate.",
+      "first_comment": "",
+      "hashtags": [
+        "#fatememes",
+        "#oraclelife"
+      ],
+      "content_pillar": "oracle_office_humor",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "save",
+      "scene_anchor": "the crystal orb on the pedestal",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 5.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 4.25,
+        "cta_naturalness": 4.5,
+        "archetype_fit": 4.5,
+        "overall": 4.71
+      },
+      "judge_notes": "Strongest on two_second_clarity, visual_specificity.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "petty_god",
+      "caption_archetype": "petty_god",
+      "archetype_reason": "Athena takes a bad hair day personally.",
+      "overlay_text": "HAIR, DON'T CARE?",
+      "caption_hook": "Athena: 'That hairstyle is an affront to Olympus!",
+      "post_body": "Who knew a bad hair day could summon the wrath of the gods?",
+      "share_cta": "Send this to your hairstylist who didn't quite nail it.",
+      "first_comment": "",
+      "hashtags": [
+        "#goddessproblems",
+        "#hairgoals"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "share",
+      "scene_anchor": "the protagonist's tousled hair",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 2.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 4.25,
+        "cta_naturalness": 2.25,
+        "archetype_fit": 3.5,
+        "overall": 3.8
+      },
+      "judge_notes": "Needs work on sendability, cta_naturalness.",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "modern_pain",
+      "caption_archetype": "modern_pain",
+      "archetype_reason": "A modern frustration is myth-ified to absurd stakes.",
+      "overlay_text": "PROPHESY OF EXISTENTIAL CRISIS",
+      "caption_hook": "I'm just really stuck on this one problem, Oracle.",
+      "post_body": "The burden of being a mortal with no solutions is crushing.",
+      "share_cta": "Comment below with your most existential crisis.",
+      "first_comment": "",
+      "hashtags": [
+        "#existentialcrisis",
+        "#modernstruggles"
+      ],
+      "content_pillar": "relatable_modern_pain",
+      "comedic_mechanism": "painful_relatability",
+      "target_outcome": "comment",
+      "scene_anchor": "the protagonist's worried expression",
+      "caption_scores": {
+        "two_second_clarity": 5.0,
+        "visual_specificity": 5.0,
+        "sendability": 0.0,
+        "myth_accessibility": 4.5,
+        "second_beat_strength": 4.25,
+        "cta_naturalness": 1.5,
+        "archetype_fit": 3.0,
+        "overall": 3.31
+      },
+      "judge_notes": "Needs work on sendability, cta_naturalness.",
+      "rejection_reasons": []
+    }
+  ],
+  "hook_variants": [
+    {
+      "hook_style": "specific_situation_hook",
+      "overlay_text": "Ignoring your love life is a bad idea (trust us)",
+      "caption_hook": "Tiresias: 'Your love life's gonna end badly if you keep ignoring it",
+      "share_cta": "Send this to someone who's still swiping left",
+      "score_reason": "This hook sets up a relatable joke about ignoring relationships, which is likely to get shared."
+    },
+    {
+      "hook_style": "friend_specific_hook",
+      "overlay_text": "When Alex finally admits they're late (again)",
+      "caption_hook": "Tiresias: 'Fate's got no patience for your tardiness, Alex",
+      "share_cta": "Send this to Alex when they're running behind",
+      "score_reason": "This hook is specific and relatable, making it perfect for a friend who always seems to be late."
+    },
+    {
+      "hook_style": "group_chat_hook",
+      "overlay_text": "When the whole squad ignores their responsibilities",
+      "caption_hook": "Tiresias: 'Fate's gonna catch up with you eventually (and so will your mom)",
+      "share_cta": "Send this to your group chat when someone ignores a responsibility",
+      "score_reason": "This hook is perfect for a group chat, as it pokes fun at the collective ignoring of responsibilities."
+    },
+    {
+      "hook_style": "specific_event_hook",
+      "overlay_text": "When you finally get that dream job (but forget to send a text)",
+      "caption_hook": "Tiresias: 'Fate's got a way of biting you in the butt, congratulations!",
+      "share_cta": "Send this to someone who just landed their dream job",
+      "score_reason": "This hook is specific and timely, making it perfect for sharing with friends after a major life event."
+    },
+    {
+      "hook_style": "general_warning_hook",
+      "overlay_text": "Ignoring fate's consequences will not end well",
+      "caption_hook": "Tiresias: 'Your ignoring of fate's just gonna make things worse",
+      "share_cta": "Send this to someone who thinks they can outrun their problems",
+      "score_reason": "This hook is a general warning, making it perfect for sharing with anyone who needs a reality check."
+    }
+  ],
+  "image_path": "images/20260502_140531_Ignoring_fates_consequences_w.png",
+  "audio_path": "audio/reel_clip_edit_Pussi Uhl - Golden Rotisserie (Pussi's Late Night Grub Mix).wav",
+  "video_path": "videos/20260502_140531_Ignoring_fates_consequences_w.mp4",
+  "generated_at": "20260502_140531",
+  "duration": 12.0,
+  "performance": {
+    "views": 22,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 20,
+    "watch_time": null,
+    "total_interactions": 0,
+    "posted_at": "2026-05-02T14:08:12",
+    "duration": 12.0,
+    "hook_style": "general_warning_hook",
+    "content_pillar": "oracle_office_humor",
+    "comedic_mechanism": "savage_observational_humor",
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.0,
+    "comment_rate": 0.0,
+    "completion_proxy": 0.0,
+    "engagement_score": 0.0,
+    "updated_at": "2026-05-02T23:21:51Z",
+    "follows": null
+  },
+  "instagram_post_info": {
+    "id": "17923059792122216",
+    "media_type": "VIDEO",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t2/f2/m86/AQNLVIuKfhzHojHCSZmgL2Umnr0sw_nHpLvMqD964R2lAtoWayQ_7E0qW__eO1pVFYgzTtZlfh0Kiq0hxn5juJ7dcR6u5i4CWj7o3tE.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=dzDGbTfGsPwQ7kNvwHhgq6L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MDc2NzkwODY0MDQ0NDYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1a05dfe5a650578e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNTRDQjBDOUU5NzM1MkMzOUZFRkU2MDlEMzE3QjM5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MyNDIxNTdFNkE3MDM0QjJCNTNEODMxMEVBNDNCQ0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8jZOrjrzPPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af5sJOlZuow2JA8ySp1in02qgkCD7Fxq7z7EaZk5qNr4YA&oe=69F85539",
+    "caption": "Tiresias: 'Your ignoring of fate's just gonna make things worse\n\nBecause let's be real, ignoring fate is just like ignoring your mom – it might feel good in the moment, but it's gonna end badly.\n\nSend this to someone who thinks they can outrun their problems\n\n#fatememes #oraclelife",
+    "permalink": "https://www.instagram.com/reel/DX2IM1FipAQ/",
+    "media_product_type": "REELS",
+    "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.71878-15/682027623_1558803855830083_6767841887857023608_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_IMVY39FLqIQ7kNvwGUK-au&_nc_oc=AdqOF4LuxYfyapQNdO5qocneBx1izXlWe-hTRld6a07QCxw4pfSWdSCtH01Fe2VQol8&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQF5IxAbQqxN55ZCXq4mFfd5a0O1SoFbztYmDqApe_7rYa7yDg3wQF-5nEmfX_0VoT5Z8jFOq8o3NQ&oh=00_Af5jgcJzwYG7KXJYi_zI5LQxV-De3ShMrqdS2lrpJSv0yA&oe=69FC5EB8",
+    "timestamp": "2026-05-02T18:08:06+0000",
+    "username": "theolympiantap"
+  },
+  "caption": "Tiresias: 'Your ignoring of fate's just gonna make things worse\n\nBecause let's be real, ignoring fate is just like ignoring your mom – it might feel good in the moment, but it's gonna end badly.\n\nSend this to someone who thinks they can outrun their problems\n\n#fatememes #oraclelife",
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:21:51Z",
+    "raw_metrics": {
+      "views": 22,
+      "reach": 20,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0
+    }
+  }
+}

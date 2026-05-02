@@ -44,7 +44,7 @@ def run_machine():
 	os.makedirs(out_dir, exist_ok=True)
 	image_out_path = os.path.join(out_dir, f"{ts}_{name_part}.png")
 
-	content_dir = "content"
+	content_dir = "posted_content_data"
 	os.makedirs(content_dir, exist_ok=True)
 	content_out_path = os.path.join(content_dir, f"{ts}_{name_part}.json")
 

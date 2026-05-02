@@ -1,0 +1,75 @@
+{
+  "theme": "\"Echoes of Olympus: A Tale of Hubris and Redemption - In an era where gods walk among mortals, the demigod daughter of Hermes must navigate the treacherous landscape of Mount Olympus, confronting her own flawed legacy as she seeks to prevent the downfall of a city, all while the enigmatic Oracle of Delphi whispers cryptic warnings in her ear.\"",
+  "visual_concept": "\"A hauntingly beautiful illustration set amidst the mystical realm of Mount Olympus, where the demigod daughter of Hermes, Kalliope, stands atop a windswept peak, gazing out upon the distant city she seeks to save. The Oracle of Delphi's enigmatic figure looms in the shadows, its features obscured by a shroud of mist, while the wind whispers secrets through the laurel leaves of the sacred grove below. In the background, the imposing silhouette of Zeus's throne rises like a monolith, casting long shadows across the landscape as Kalliope's fate hangs precariously in the balance.\"",
+  "character_context": "\"Kalliope, the demigod daughter of Hermes, stands at the precipice of her destiny, torn between her innate curiosity and her inherited hubris. With a mind sharpened by the whispers of the Oracle and a heart heavy with the weight of her own flaws, she navigates the labyrinthine politics of Mount Olympus with a mix of determination and trepidation. Her eyes burn with an inner fire, fueled by the memories of her father's wanderings and the echoes of the Muses' songs that still resonate within her soul.\"",
+  "overlay_text": "My dad's a real diva",
+  "caption_hook": "When your godfather polishes his throne while you're stuck saving the world",
+  "post_body": "Priorities, am I right?",
+  "hashtags": [
+    "#godlife",
+    "#divadaddy"
+  ],
+  "first_comment": "",
+  "style_label": "petty_god_behavior",
+  "content_pillar": "petty_god_behavior",
+  "comedic_mechanism": "absurd_contrast",
+  "target_outcome": "share",
+  "scene_anchor": "Zeus's throne looming in the background",
+  "selection_reason": "Strong hook, specific to the scene, and relatable to anyone who's dealt with demanding family members or priorities gone awry.",
+  "rejection_reasons": [],
+  "instagram_caption": "When your godfather polishes his throne while you're stuck saving the world\n\nPriorities, am I right?\n\n#godlife #divadaddy",
+  "candidates": [
+    {
+      "style_label": "petty_god_behavior",
+      "overlay_text": "My dad's a real king-sized diva",
+      "caption_hook": "When your godfather is more concerned with his throne than your problems",
+      "post_body": "Apparently, saving the city isn't as important as polishing the throne.",
+      "first_comment": "",
+      "hashtags": [
+        "#godlife",
+        "#divadaddy"
+      ],
+      "content_pillar": "petty_god_behavior",
+      "comedic_mechanism": "absurd_contrast",
+      "target_outcome": "share",
+      "scene_anchor": "Zeus's throne looming in the background",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "motivational_one_liners",
+      "overlay_text": "Fate is what you make it, unless it's not",
+      "caption_hook": "Remember, your destiny is in your hands... or not",
+      "post_body": "When even the gods can't guarantee your future.",
+      "first_comment": "",
+      "hashtags": [
+        "#motivationmonday",
+        "#fate"
+      ],
+      "content_pillar": "motivational_one_liners",
+      "comedic_mechanism": "elegant_melancholy",
+      "target_outcome": "follow",
+      "scene_anchor": "Kalliope gazing out at the city",
+      "rejection_reasons": []
+    },
+    {
+      "style_label": "relationship_memes",
+      "overlay_text": "When your therapist is a mysterious god",
+      "caption_hook": "Why do I always get the cryptic messages, but you're always MIA?",
+      "post_body": "Apparently, the Oracle said 'don't text me back'.",
+      "first_comment": "",
+      "hashtags": [
+        "#therapistlife",
+        "#godsarethebest"
+      ],
+      "content_pillar": "relationship_memes",
+      "comedic_mechanism": "savage_observational_humor",
+      "target_outcome": "save",
+      "scene_anchor": "Kalliope and the Oracle's enigmatic exchange",
+      "rejection_reasons": []
+    }
+  ],
+  "image_path": "images/20260420_120024_My_dads_a_real_diva.png",
+  "audio_path": "audio/reel_clip_edit_ darry lavid - trance 2.wav",
+  "video_path": "videos/20260420_120024_My_dads_a_real_diva.mp4",
+  "generated_at": "20260420_120024"
+}

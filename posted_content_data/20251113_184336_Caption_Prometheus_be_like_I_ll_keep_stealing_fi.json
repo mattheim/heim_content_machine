@@ -1,0 +1,55 @@
+{
+  "source": "instagram_import",
+  "generated_at": "2025-11-13T18:43:36+0000",
+  "overlay_text": null,
+  "caption_hook": "**Caption**:",
+  "post_body": "**Caption**:\nPrometheus be like: \"I’ll keep stealing fire even if I’m chained to a rock forever.\"",
+  "caption": "**Caption**:\nPrometheus be like: \"I’ll keep stealing fire even if I’m chained to a rock forever.\"",
+  "instagram_post_info": {
+    "id": "18073892491992245",
+    "caption": "**Caption**:\nPrometheus be like: \"I’ll keep stealing fire even if I’m chained to a rock forever.\"",
+    "media_type": "VIDEO",
+    "media_product_type": "REELS",
+    "media_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPkzRYbIbfoA4uE35Y88Ea4_x2fneFJavXuyQ0a4q6fio2PEExvy1jI6hBa8tqQL2vWrNaH4E7rr33RfZHIoouT515eh3UVohpDZeA.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=R8XZjblaYb8Q7kNvwHx4Ora&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTQ3MTUwMjYwMDU3OTkxNywiYXNzZXRfYWdlX2RheXMiOjE3MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8b0615800557736e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DOTRCOTM3RDU4QzIzRkI4OTcyQjUzRTAzNTg4RTNCRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMDAxNTYzOTM3MzUzMTIyXzg0NDAwMjI0NjIyNjE3NDI4ODAubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpqt2dzclJ0FFQIoAkMzLBdANAAAAAAAABgSZGFzaF9iYXNlbGluZV8zX3YxEQB1_gdl5p0BAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&edm=AM6HXa8EAAAA&_nc_zt=28&oh=00_Af4naxXxkqafmZMT1aAvvvvWZj5bIzAj_PFxQpSihu4DAQ&oe=69F85168",
+    "permalink": "https://www.instagram.com/reel/DRAdJ7tDe9D/",
+    "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/583770862_1327905098790993_6916651338120640459_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=H1Cz8xV00coQ7kNvwGK8o3-&_nc_oc=AdpqVj_n8wtCUSi-4S2JjxzOn5edmr8JzInrRicD5y_UHuhprmkTgRmDjCEQs1AW3tU&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=kD-Wnx3IsCzBMpV-HYKX7A&_nc_tpa=Q5bMBQEkqXzBJ31IPAG84CFr05S6SwuG7571VUChsg6n5YtNEHyBHYhoQ7wtkg7PIEyn16e7aFZVaPYRTw&oh=00_Af6VX08HdxVcKWruhJzscxTZ6bKeGWaiX7Hnda25B9UAvw&oe=69FC6047",
+    "timestamp": "2025-11-13T18:43:36+0000",
+    "username": "theolympiantap"
+  },
+  "performance": {
+    "views": 101,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reach": 84,
+    "watch_time": null,
+    "follows": null,
+    "total_interactions": 3,
+    "posted_at": "2025-11-13T18:43:36+0000",
+    "duration": null,
+    "hook_style": null,
+    "content_pillar": null,
+    "comedic_mechanism": null,
+    "share_rate": 0.0,
+    "save_rate": 0.0,
+    "like_rate": 0.03571428571428571,
+    "comment_rate": 0.0,
+    "completion_proxy": null,
+    "engagement_score": 0.03571428571428571,
+    "updated_at": "2026-05-02T23:11:16Z"
+  },
+  "instagram_synced_at": "2026-05-02T23:10:19Z",
+  "instagram_insights": {
+    "imported_at": "2026-05-02T23:11:16Z",
+    "raw_metrics": {
+      "views": 101,
+      "reach": 84,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 3
+    }
+  }
+}
